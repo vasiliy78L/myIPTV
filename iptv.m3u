@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1,Победа
+http://myott.tv/stream/FBI5KR8DVL/312.m3u8
 #EXTINF:-1, Футбол 1 HD UA
 http://188.35.9.11:2007
 #EXTINF:-1,Кино ТВ
@@ -173,7 +175,7 @@ http://109.248.236.41:4433/udp/238.1.1.56:1234
 http://109.248.236.41:4433/udp/238.1.1.57:1234
 #EXTINF:-1, Бобер
 http://109.248.236.41:4433/udp/238.1.1.58:1234
-#EXTINF:-1, HDL HD 
+#EXTINF:-1, HDL HD
 http://109.248.236.41:4433/udp/238.1.1.59:1234
 #EXTINF:-1, Новое Телевидение (KZ) +3
 http://109.248.236.41:4433/udp/238.1.1.63:1234
@@ -728,17 +730,17 @@ http://213.174.8.7:8000/play/15/index.m3u8
 http://213.174.8.7:8000/play/15/tracks-v1a1/index.m3u8
 #EXTINF:-1, Eurosport 2
 http://109.248.236.41:4433/udp/238.1.1.115:1234
-#EXTINF:-1, QazSport HD 
+#EXTINF:-1, QazSport HD
 http://109.248.236.41:4433/udp/238.1.1.116:1234
 #EXTINF:-1, SETANTA КАЗАХСТАН
 http://109.248.236.41:4433/udp/238.1.1.140:1234
 #EXTINF:-1, SETANTA
 http://109.248.236.41:4433/udp/238.1.1.141:1234
-#EXTINF:-1, КХЛ 
+#EXTINF:-1, КХЛ
 http://109.248.236.41:4433/udp/238.1.1.36:1234
-#EXTINF:-1, Матч! Планета 
+#EXTINF:-1, Матч! Планета
 http://109.248.236.41:4433/udp/238.1.1.39:1234
-#EXTINF:-1, Setanta Sports+ 
+#EXTINF:-1, Setanta Sports+
 http://109.248.236.41:4433/udp/238.1.1.61:1234
 #EXTINF:-1, NEWTV Super sports (Китайский) [FHD]
 http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
@@ -852,4 +854,3 @@ http://live.redtraffic.xyz/teen.m3u8
 http://188.35.9.11:21051/udp/071l
 #EXTINF:-1,Hot (18+)
 http://5.255.90.194:3001/play/a01j
-
