@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1,Победа
-http://178.68.217.99:81/play/a059
+http://95.189.225.235:1234/udp/225.54.23.1:5000
 #EXTINF:-1, Футбол 1 HD UA
 http://188.35.9.11:2007
 #EXTINF:-1,Кино ТВ
