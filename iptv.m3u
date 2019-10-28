@@ -519,129 +519,7 @@ http://213.231.131.198:22666/udp/239.10.10.155:5000
 http://85.12.193.140:81/udp/239.99.17.251:1234
 #EXTINF:-1, Беларусь 4 (Витебск)
 http://95.46.208.8:26258/belarus4
-#EXTINF:-1, НТА (Львов)
-http://95.67.106.10/hls/nta_ua_low/index.m3u8
-#EXTINF:-1, UA TV [HD]
-http://95.67.106.242:80/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:-1, 112 Украина [HD]
-http://95.67.12.67/hls/112hd_mid/index.m3u8
-#EXTINF:-1, Прямой (Украина)
-http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?codec=mpeg4
-#EXTINF:-1, Киев ТВ
-http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
-#EXTINF:-1, Киев ТВ
-http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8?codec=mpeg4
-#EXTINF:-1, Киев ТВ
-http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8?codec=mpeg4&app=playlist
-#EXTINF:-1, Наш/Макси ТВ
-http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
-#EXTINF:-1, НАШ
-http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4
-#EXTINF:-1, OTV Music
-http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4
-#EXTINF:-1, 24 канал (Украина)
-http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4
-#EXTINF:-1, 5 канал Украина
-http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
-#EXTINF:-1, 5 канал Украина
-http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8?codec=mpeg4
-#EXTINF:-1, KPT
-http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
-#EXTINF:-1, Донбас
-http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
-#EXTINF:-1, Донбас
-http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8?codec=mpeg4EXTINF:-1, Донбас
-http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8?codec=mpeg4&app=playlist
-#EXTINF:-1, Донбас
-http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
-#EXTINF:-1, UA: КУЛЬТУРА
-http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
-#EXTINF:-1, UA Культура
-http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8?codec=mpeg4
-#EXTINF:-1, UA: КУЛЬТУРА
-http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8?codec=mpeg4&app=playlist
-#EXTINF:-1, Еко ТВ (Украина)
-http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
-#EXTINF:-1, Еко TV
-http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8?codec=mpeg4
-#EXTINF:-1, Малятко TV [SD]
-http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
-#EXTINF:-1, Малятко TV [SD]
-http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4
-#EXTINF:-1, Рада ТВ
-http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
-#EXTINF:-1, Рада ТВ
-http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8?codec=mpeg4
-#EXTINF:-1, Громадське TV (Украина) [FHD]
-http://api.tv.ipnet.ua/api/v1/manifest/139947023.m3u8
-#EXTINF:-1, 112 Украина
-http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8
-#EXTINF:-1, ATR
-http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8
-#EXTINF:-1, Черноморская ТРК
-http://api.tv.ipnet.ua/api/v1/manifest/2007331741.m3u8
-#EXTINF:-1, Черноморская ТРК
-http://api.tv.ipnet.ua/api/v1/manifest/2007331741.m3u8
-#EXTINF:-1, Еспресо TV
-http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
-#EXTINF:-1, Еспресо TV (Украина)
-http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?codec=mpeg4
-#EXTINF:-1, UA TV
-http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
-#EXTINF:-1, UA TV
-http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8?codec=mpeg4
-#EXTINF:-1, UA TV
-http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
-#EXTINF:-1, 4 канал Украина (Киев)
-http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
-#EXTINF:-1, 4 канал Украина
-http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8?codec=mpeg4
-#EXTINF:-1, UA:Крим
-http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
-#EXTINF:-1, UA Крым
-http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8?codec=mpeg4
-#EXTINF:-1, КРИМ
-http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8?codec=mpeg4&app=playlist
-#EXTINF:-1, КРИМ
-http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
-#EXTINF:-1, Перший захiдний
-http://api.tv.ipnet.ua/api/v1/manifest/2118742459.m3u8?codec=mpeg4
-#EXTINF:-1, Тиса 1
-http://api.tv.ipnet.ua/api/v1/manifest/2118742462.m3u8?codec=mpeg4&app=playlist
-#EXTINF:-1, Тиса 1
-http://api.tv.ipnet.ua/api/v1/manifest/2118742462.m3u8
-#EXTINF:-1, Галичина
-http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8
-#EXTINF:-1, Galichina
-http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8?codec=mpeg4
-#EXTINF:-1, Галичина
-http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8
-#EXTINF:-1, UA:Одеса
-http://api.tv.ipnet.ua/api/v1/manifest/2118742468.m3u8
-#EXTINF:-1, ОГТРК
-http://api.tv.ipnet.ua/api/v1/manifest/2118742468.m3u8
-#EXTINF:-1, ОГТРК (Одесса)
-http://api.tv.ipnet.ua/api/v1/manifest/2118742468.m3u8?codec=mpeg4
-#EXTINF:-1, Сонце
-http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
-#EXTINF:-1, Сонце
-http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8?codec=mpeg4
-#EXTINF:-1, Сонце
-http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
-#EXTINF:-1, UA:Перший
-http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
-#EXTINF:-1, UA Перший
-http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8?codec=mpeg4
-#EXTINF:-1, ПЕРШИЙ
-http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8?codec=mpeg4&app=playlist
-#EXTINF:-1, ПЕРШИЙ
-http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
-#EXTINF:-1, Прямий
-http://api.tv.ipnet.ua:80/api/v1/manifest/1293294600.m3u8
-#EXTINF:-1, Киев ТВ
-http://api.tv.ipnet.ua:80/api/v1/manifest/1293296300.m3u8
-#EXTINF:-1, Maxxi TV
-http://api.tv.ipnet.ua:80/api/v1/manifest/1293296550.m3u8
+
 #EXTINF:-1, 5 канал [SD]
 http://api.tv.ipnet.ua:80/api/v1/manifest/1293299450.m3u8
 #EXTINF:-1, Донбас
@@ -858,3 +736,139 @@ http://live.redtraffic.xyz/teen.m3u8
 http://188.35.9.11:21051/udp/071l
 #EXTINF:-1,Морской
 http://78.109.132.109:1234/udp/239.1.20.90:1234
+#EXTINF:-1,Animal Planet
+http://2.60.24.254:1234/udp/225.54.23.60:5000
+#EXTINF:-1,ZooПарк
+http://2.60.24.254:1234/udp/225.54.23.61:5000
+#EXTINF:-1,Наука 2.0
+http://2.60.24.254:1234/udp/225.54.23.65:5000
+#EXTINF:-1,Nat Geo Wild
+http://2.60.24.254:1234/udp/225.54.23.66:5000
+#EXTINF:-1,Охота и Рыбалка
+http://2.60.24.254:1234/udp/225.54.23.67:5000
+#EXTINF:-1,Усадьба
+http://2.60.24.254:1234/udp/225.54.23.68:5000
+#EXTINF:-1,Food Network
+http://2.60.24.254:1234/udp/225.54.23.69:5000
+#EXTINF:-1,Ocean TV
+http://2.60.24.254:1234/udp/225.54.23.70:5000
+#EXTINF:-1,Здоровое ТВ
+http://2.60.24.254:1234/udp/225.54.23.71:5000
+#EXTINF:-1,Первый Образовательный
+http://2.60.24.254:1234/udp/225.54.23.73:5000
+#EXTINF:-1,DTX
+http://2.60.24.254:1234/udp/225.54.23.74:5000
+#EXTINF:-1,Discovery Science
+http://2.60.24.254:1234/udp/225.54.23.75:5000
+#EXTINF:-1,Страна
+http://2.60.24.254:1234/udp/225.54.23.76:5000
+#EXTINF:-1,Da Vinci Learning
+http://2.60.24.254:1234/udp/225.54.23.78:5000
+#EXTINF:-1,Просвещение
+http://2.60.24.254:1234/udp/225.54.23.79:5000
+#EXTINF:-1,Viasat Nature
+http://2.60.24.254:1234/udp/225.54.23.80:5000
+#EXTINF:-1,24 Doc
+http://2.60.24.254:1234/udp/225.54.23.81:5000
+#EXTINF:-1,IDX
+http://2.60.24.254:1234/udp/225.54.23.83:5000
+#EXTINF:-1,Ностальгия
+http://2.60.24.254:1234/udp/225.54.23.85:5000
+#EXTINF:-1,История
+http://2.60.24.254:1234/udp/225.54.23.86:5000
+#EXTINF:-1,Парк Развлечений
+http://2.60.24.254:1234/udp/225.54.23.87:5000
+#EXTINF:-1,Оружие
+http://2.60.24.254:1234/udp/225.54.23.88:5000
+#EXTINF:-1,Nickelodeon
+http://2.60.24.254:1234/udp/225.54.23.90:5000
+#EXTINF:-1,Мульт
+http://2.60.24.254:1234/udp/225.54.23.91:5000
+#EXTINF:-1,Детский
+http://2.60.24.254:1234/udp/225.54.23.92:5000
+#EXTINF:-1,Радость Моя
+http://2.60.24.254:1234/udp/225.54.23.93:5000
+#EXTINF:-1,TiJi
+http://2.60.24.254:1234/udp/225.54.23.94:5000
+#EXTINF:-1,Cartoon Network
+http://2.60.24.254:1234/udp/225.54.23.95:5000
+#EXTINF:-1,Мама
+http://2.60.24.254:1234/udp/225.54.23.96:5000
+#EXTINF:-1,Детский Мир
+http://2.60.24.254:1234/udp/225.54.23.97:5000
+#EXTINF:-1,JimJam
+http://2.60.24.254:1234/udp/225.54.23.99:5000
+#EXTINF:-1,Gulli
+http://2.60.24.254:1234/udp/225.54.23.100:5000
+#EXTINF:-1,Nick Jr.
+http://2.60.24.254:1234/udp/225.54.23.101:5000
+#EXTINF:-1,Baby TV
+http://2.60.24.254:1234/udp/225.54.23.102:5000
+#EXTINF:-1,Boomerang
+http://2.60.24.254:1234/udp/225.54.23.103:5000
+#EXTINF:-1,Бобер ТВ
+http://2.60.24.254:1234/udp/225.54.23.105:5000
+#EXTINF:-1,Fashion TV
+http://2.60.24.254:1234/udp/225.54.23.106:5000
+#EXTINF:-1,Сарафан
+http://2.60.24.254:1234/udp/225.54.23.107:5000
+#EXTINF:-1,TLC
+http://2.60.24.254:1234/udp/225.54.23.111:5000
+#EXTINF:-1,A One
+http://2.60.24.254:1234/udp/225.54.23.114:5000
+#EXTINF:-1,Russian Music Box
+http://2.60.24.254:1234/udp/225.54.23.115:5000
+#EXTINF:-1,Music Box
+http://2.60.24.254:1234/udp/225.54.23.116:5000
+#EXTINF:-1,RU TV
+http://2.60.24.254:1234/udp/225.54.23.117:5000
+#EXTINF:-1,Шансон ТВ
+http://2.60.24.254:1234/udp/225.54.23.118:5000
+#EXTINF:-1,Ля Минор
+http://2.60.24.254:1234/udp/225.54.23.119:5000
+#EXTINF:-1,VH1
+http://2.60.24.254:1234/udp/225.54.23.120:5000
+#EXTINF:-1,MCM Top
+http://2.60.24.254:1234/udp/225.54.23.121:5000
+#EXTINF:-1,Bridge TV
+http://2.60.24.254:1234/udp/225.54.23.122:5000
+#EXTINF:-1,Europa Plus TV
+http://2.60.24.254:1234/udp/225.54.23.123:5000
+#EXTINF:-1,MTV Dance
+http://2.60.24.254:1234/udp/225.54.23.124:5000
+#EXTINF:-1,MTV Hits
+http://2.60.24.254:1234/udp/225.54.23.125:5000
+#EXTINF:-1,MTV Rocks
+http://2.60.24.254:1234/udp/225.54.23.126:5000
+#EXTINF:-1,VH1 Classic
+http://2.60.24.254:1234/udp/225.54.23.127:5000
+#EXTINF:-1,Mezzo
+http://2.60.24.254:1234/udp/225.54.23.128:5000
+#EXTINF:-1,RUSONG TV
+http://2.60.24.254:1234/udp/225.54.23.129:5000
+#EXTINF:-1,EuroSport1
+http://2.60.24.254:1234/udp/225.54.23.130:5000
+#EXTINF:-1,EuroSport2
+http://2.60.24.254:1234/udp/225.54.23.131:5000
+#EXTINF:-1,КХЛ ТВ
+http://2.60.24.254:1234/udp/225.54.23.132:5000
+#EXTINF:-1,Матч! Арена
+http://2.60.24.254:1234/udp/225.54.23.134:5000
+#EXTINF:-1,Viasat Sport
+http://2.60.24.254:1234/udp/225.54.23.135:5000
+#EXTINF:-1,Русский Экстрим
+http://2.60.24.254:1234/udp/225.54.23.136:5000
+#EXTINF:-1,Extreme Sports
+http://2.60.24.254:1234/udp/225.54.23.139:5000
+#EXTINF:-1,Футбол
+http://2.60.24.254:1234/udp/225.54.23.138:5000
+#EXTINF:-1,Матч! Наш Спорт
+http://2.60.24.254:1234/udp/225.54.23.141:5000
+#EXTINF:-1,Nautical Channel
+http://2.60.24.254:1234/udp/225.54.23.143:5000
+#EXTINF:-1,Матч! Наш Спорт
+http://2.60.24.254:1234/udp/225.54.23.145:5000
+#EXTINF:-1,Драйв
+http://2.60.24.254:1234/udp/225.54.23.148:5000
+#EXTINF:-1,Авто Плюс
+http://2.60.24.254:1234/udp/225.54.23.149:5000
