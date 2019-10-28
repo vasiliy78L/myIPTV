@@ -856,5 +856,5 @@ http://live.redtraffic.xyz/russian.m3u8
 http://live.redtraffic.xyz/teen.m3u8
 #EXTINF:-1,Русская ночь (18+)
 http://188.35.9.11:21051/udp/071l
-#EXTINF:-1,Hot (18+)
-http://5.255.90.194:3001/play/a01j
+#EXTINF:-1,Морской
+http://78.109.132.109:1234/udp/239.1.20.90:1234
