@@ -519,79 +519,243 @@ http://213.231.131.198:22666/udp/239.10.10.155:5000
 http://85.12.193.140:81/udp/239.99.17.251:1234
 #EXTINF:-1, Беларусь 4 (Витебск)
 http://95.46.208.8:26258/belarus4
-
 #EXTINF:-1, 5 канал [SD]
 http://api.tv.ipnet.ua:80/api/v1/manifest/1293299450.m3u8
-#EXTINF:-1, Донбас
-http://api.tv.ipnet.ua:80/api/v1/manifest/1311274061.m3u8
 #EXTINF:-1, Россия К [SD]
 http://api.tv.ipnet.ua:80/api/v1/manifest/1311962540.m3u8
-#EXTINF:-1, Малятко TV [SD]
-http://api.tv.ipnet.ua:80/api/v1/manifest/1311963260.m3u8
-#EXTINF:-1, Рада ТВ
-http://api.tv.ipnet.ua:80/api/v1/manifest/1312714970.m3u8
-#EXTINF:-1, 112 Украина
-http://api.tv.ipnet.ua:80/api/v1/manifest/1442908080.m3u8
-#EXTINF:-1, ATR
-http://api.tv.ipnet.ua:80/api/v1/manifest/2007308341.m3u8
-#EXTINF:-1, Еспресо TV
-http://api.tv.ipnet.ua:80/api/v1/manifest/2007567821.m3u8
-#EXTINF:-1, 4 канал Украина (Киев)
-http://api.tv.ipnet.ua:80/api/v1/manifest/2118742331.m3u8
 #EXTINF:-1, Россия К [FHD]
 http://api.tv.ipnet.ua:80/api/v1/manifest/2118742387.m3u8
-#EXTINF:-1, UA:Крим
-http://api.tv.ipnet.ua:80/api/v1/manifest/2118742409.m3u8
-#EXTINF:-1, Громадське TV (Украина)
-http://api.tv.ipnet.ua:80/api/v1/manifest/2118742457.m3u8
-#EXTINF:-1, Тиса 1
-http://api.tv.ipnet.ua:80/api/v1/manifest/2118742462.m3u8
-#EXTINF:-1, Галичина
-http://api.tv.ipnet.ua:80/api/v1/manifest/2118742464.m3u8
-#EXTINF:-1, ОГТРК
-http://api.tv.ipnet.ua:80/api/v1/manifest/2118742468.m3u8
-#EXTINF:-1, Сонце
-http://api.tv.ipnet.ua:80/api/v1/manifest/709640461.m3u8
-#EXTINF:-1, Крик ТВ [HD]
-http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
-#EXTINF:-1, Первый Городской (Одесса)
-http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/1tvod/1tvod/chunks.m3u8
-#EXTINF:-1, Репортер
-http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
-#EXTINF:-1, Академия (Одесса)
-http://cdn1.live-tv.od.ua:8081/36chod/36chod-abr/36chod/36chod/chunks.m3u8
-#EXTINF:-1, Третий Цифровой
-http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/3tvod/3tvod/chunks.m3u8
-#EXTINF:-1, Третий Цифровой (Одесса)
-http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/3tvod/3tvod/playlist.m3u8
-#EXTINF:-1, А1 Одесса
-http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-480p/playlist.m3u8
-#EXTINF:-1, А1 Одесса [HD]
-http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
-#EXTINF:-1, G TV (Одесса)
-http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8
-#EXTINF:-1, G TV (Одесса) [HD]
-http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
-#EXTINF:-1, Bambarbia TV [HD]
-http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
-#EXTINF:-1, Думская ТВ (Одесса)
-http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska480p/playlist.m3u8
-#EXTINF:-1, Думская TV (Одесса) [HD]
-http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
-#EXTINF:-1, STV (Одесса)
-http://cdn1.live-tv.od.ua:8081/stvod/stvod-abr/playlist.m3u8
-#EXTINF:-1, STV (Одесса)
-http://cdn1.live-tv.od.ua:8081/stvod/stvod-abr/stvod/stvod-sub/playlist.m3u8
-#EXTINF:-1, STV
-http://cdn1.live-tv.od.ua:8081/stvod/stvod-abr-lq/playlist.m3u8
-#EXTINF:-1, S-TV
-http://cdn1.live-tv.od.ua:8081/stvod/stvod-abr-lq/stvod/stvod-sub/chunks.m3u8
-#EXTINF:-1, Южная волна ТВ (Одесса) [HD]
-http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
-#EXTINF:-1, Здоровье Одесса
-http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
-#EXTINF:-1, 7 канал (Одесса) [HD]
-http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1,RTG
+http://164.177.177.111:1212/udp/233.12.144.222:5050
+#EXTINF:-1,Ю ТВ
+http://164.177.177.111:1212/udp/233.12.144.80:5050
+#EXTINF:-1,Disney Channel
+http://164.177.177.111:1212/udp/233.12.144.32:5050
+#EXTINF:-1,Paramount Comedy HD
+http://164.177.177.111:1212/udp/233.12.144.83:5050
+#EXTINF:-1,Sony Sci-Fi
+http://164.177.177.111:1212/udp/233.12.144.17:5050
+#EXTINF:-1,Sony Turbo
+http://164.177.177.111:1212/udp/233.12.144.16:5050
+#EXTINF:-1,Дом Кино
+http://164.177.177.111:1212/udp/233.12.144.33:5050
+#EXTINF:-1,Zee TV
+http://164.177.177.111:1212/udp/233.12.144.27:5050
+#EXTINF:-1,MTV HD
+http://164.177.177.111:1212/udp/233.12.144.84:5050
+#EXTINF:-1,MTV Rocks
+http://164.177.177.111:1212/udp/233.12.144.86:5050
+#EXTINF:-1,VH1 Classic
+http://164.177.177.111:1212/udp/233.12.144.87:5050
+#EXTINF:-1,Bridge TV
+http://164.177.177.111:1212/udp/233.12.144.4:5050
+#EXTINF:-1,RU TV
+http://164.177.177.111:1212/udp/233.12.144.14:5050
+#EXTINF:-1,Наше TV
+http://164.177.177.111:1212/udp/233.12.144.203:5050
+#EXTINF:-1,ТНТ Music
+http://164.177.177.111:1212/udp/233.12.144.3:5050
+#EXTINF:-1,Музыка Первого
+http://164.177.177.111:1212/udp/233.12.144.47:5050
+#EXTINF:-1,ТНТ4
+http://164.177.177.111:1212/udp/233.12.144.202:5050
+#EXTINF:-1,Морской
+http://164.177.177.111:1212/udp/233.12.144.11:5050
+#EXTINF:-1,СТС Love
+http://164.177.177.111:1212/udp/233.12.144.92:5050
+#EXTINF:-1,TiJi
+http://164.177.177.111:1212/udp/233.12.144.118:5050
+#EXTINF:-1,Детский
+http://164.177.177.111:1212/udp/233.12.144.30:5050
+#EXTINF:-1,Время
+http://164.177.177.111:1212/udp/233.12.144.29:5050
+#EXTINF:-1,Ретро
+http://164.177.177.111:1212/udp/233.12.144.61:5050
+#EXTINF:-1,ТелеКафе
+http://164.177.177.111:1212/udp/233.12.144.76:5050
+#EXTINF:-1,Драйв
+http://164.177.177.111:1212/udp/233.12.144.35:5050
+#EXTINF:-1,Охота и Рыбалка
+http://164.177.177.111:1212/udp/233.12.144.54:5050
+#EXTINF:-1,Усадьба
+http://164.177.177.111:1212/udp/233.12.144.79:5050
+#EXTINF:-1,PRO Бизнес
+http://164.177.177.111:1212/udp/233.12.144.91:5050
+#EXTINF:-1,Мир 24
+http://164.177.177.111:1212/udp/233.12.144.44:5050
+#EXTINF:-1,8 Канал
+http://164.177.177.111:1212/udp/233.12.144.81:5050
+#EXTINF:-1,ТНВ Татарстан
+http://164.177.177.111:1212/udp/233.12.144.77:5050
+#EXTINF:-1,DW
+http://164.177.177.111:1212/udp/233.12.144.138:5050
+#EXTINF:-1,France 24
+http://164.177.177.111:1212/udp/233.12.144.107:5050
+#EXTINF:-1,Russia Today Doc HD
+http://164.177.177.111:1212/udp/233.12.144.109:5050
+#EXTINF:-1,Amedia 1 HD
+http://164.177.177.111:1212/udp/233.12.144.134:5050
+#EXTINF:-1,Amedia 2
+http://164.177.177.111:1212/udp/233.12.144.181:5050
+#EXTINF:-1,Мир
+http://164.177.177.111:1212/udp/226.100.10.31:2000
+#EXTINF:-1,СТС
+http://164.177.177.111:1212/udp/226.100.10.51:2000
+#EXTINF:-1,НТВ
+http://164.177.177.111:1212/udp/239.54.6.13:1234
+#EXTINF:-1,Моя Планета
+http://164.177.177.111:1212/udp/239.54.6.53:1224
+#EXTINF:-1,Animal Planet HD
+http://164.177.177.111:1212/udp/239.54.6.94:1234
+#EXTINF:-1,Живая планета
+http://164.177.177.111:1212/udp/239.54.5.166:1224
+#EXTINF:-1,Настоящее Страшное ТВ
+http://164.177.177.111:1212/udp/239.54.6.58:1224
+#EXTINF:-1,Discovery Channel HD
+http://164.177.177.111:1212/udp/239.54.6.86:1234
+#EXTINF:-1,Кино ТВ
+http://164.177.177.111:1212/udp/239.54.6.102:1224
+#EXTINF:-1,Русский Детектив
+http://164.177.177.111:1212/udp/239.54.6.32:1224
+#EXTINF:-1,Парк Развлечений
+http://164.177.177.111:1212/udp/239.54.6.164:1224
+#EXTINF:-1,Мульт
+http://164.177.177.111:1212/udp/239.54.6.27:1224
+#EXTINF:-1,Ani
+http://164.177.177.111:1212/udp/239.54.6.109:1234
+#EXTINF:-1,Русский Роман
+http://164.177.177.111:1212/udp/239.54.5.87:1224
+#EXTINF:-1,Pусский Бестселлер
+http://164.177.177.111:1212/udp/239.54.6.172:1234
+#EXTINF:-1,SET
+http://164.177.177.111:1212/udp/239.54.6.47:1224
+#EXTINF:-1,История
+http://164.177.177.111:1212/udp/239.54.6.28:1224
+#EXTINF:-1,Мама
+http://164.177.177.111:1212/udp/239.54.5.44:1224
+#EXTINF:-1,Nano TV
+http://164.177.177.111:1212/udp/239.54.6.40:1224
+#EXTINF:-1,Техно 24
+http://164.177.177.111:1212/udp/239.54.6.56:1224
+#EXTINF:-1,Доктор
+http://164.177.177.111:1212/udp/239.54.6.104:1224
+#EXTINF:-1,Наука 2.0
+http://164.177.177.111:1212/udp/239.54.6.51:1224
+#EXTINF:-1,Сарафан
+http://164.177.177.111:1212/udp/239.54.6.129:1224
+#EXTINF:-1,Шансон ТВ
+http://164.177.177.111:1212/udp/239.54.6.11:1224
+#EXTINF:-1,Eurosport 1 HD
+http://164.177.177.111:1212/udp/239.54.6.174:1224
+#EXTINF:-1,Точка ТВ
+http://164.177.177.111:1212/udp/238.1.1.80:1234
+#EXTINF:-1,Калейдоскоп ТВ
+http://164.177.177.111:1212/udp/238.1.1.100:1234
+#EXTINF:-1,Саратов 24
+http://164.177.177.111:1212/udp/239.1.1.100:1234
+#EXTINF:-1,Беларусь ТВ
+http://164.177.177.111:1212/udp/238.1.1.107:1234
+#EXTINF:-1,Страна
+http://164.177.177.111:1212/udp/239.54.5.73:1224
+#EXTINF:-1,Царьград
+http://164.177.177.111:1212/udp/239.54.6.30:1224
+#EXTINF:-1,ТНВ Планета
+http://164.177.177.111:1212/udp/238.1.1.53:1234
+#EXTINF:-1,LifeNews
+http://164.177.177.111:1212/udp/238.1.1.117:1234
+#EXTINF:-1,RUSONG TV
+http://164.177.177.111:1212/udp/238.1.1.54:1234
+#EXTINF:-1,Союз
+http://164.177.177.111:1212/udp/238.1.1.98:1234
+#EXTINF:-1,Вместе РФ
+http://164.177.177.111:1212/udp/238.1.1.87:1234
+#EXTINF:-1,ЛДПР ТВ
+http://164.177.177.111:1212/udp/238.1.1.97:1234
+#EXTINF:-1,ТРО
+http://164.177.177.111:1212/udp/238.1.1.123:1234
+#EXTINF:-1,КХЛ
+http://164.177.177.111:1212/udp/233.12.144.42:5050
+#EXTINF:-1,МАТЧ! НАШ СПОРТ
+http://164.177.177.111:1212/udp/233.12.144.52:5050
+#EXTINF:-1,МАТЧ! Боец
+http://164.177.177.111:1212/udp/233.12.144.182:5050
+#EXTINF:-1,Кино Плюс
+http://164.177.177.111:1212/udp/233.12.144.51:5050
+#EXTINF:-1,Кухня ТВ
+http://164.177.177.111:1212/udp/233.12.144.41:5050
+#EXTINF:-1,МАТЧ! АРЕНА
+http://164.177.177.111:1212/udp/233.12.144.71:5050
+#EXTINF:-1,Кинохит
+http://164.177.177.111:1212/udp/233.12.144.123:5050
+#EXTINF:-1,Russia Today HD
+http://164.177.177.111:1212/udp/233.12.144.22:5050
+#EXTINF:-1,Детский Мир
+http://164.177.177.111:1212/udp/233.12.144.31:5050
+#EXTINF:-1,Бобер
+http://164.177.177.111:1212/udp/233.12.144.45:5050
+#EXTINF:-1,Russian MusicBox
+http://164.177.177.111:1212/udp/233.12.144.68:5050
+#EXTINF:-1,Первый образовательный
+http://164.177.177.111:1212/udp/233.12.144.117:5050
+#EXTINF:-1,365 дней
+http://164.177.177.111:1212/udp/233.12.144.132:5050
+#EXTINF:-1,Eureka HD
+http://164.177.177.111:1212/udp/233.12.144.142:5050
+#EXTINF:-1,MusicBoxTV
+http://164.177.177.111:1212/udp/233.12.144.147:5050
+#EXTINF:-1,Охотник и рыболов HD
+http://164.177.177.111:1212/udp/233.12.144.191:5050
+#EXTINF:-1,Юмор ТВ
+http://164.177.177.111:1212/udp/233.12.144.199:5050
+#EXTINF:-1,Teletravel HD
+http://164.177.177.111:1212/udp/233.12.144.200:5050
+#EXTINF:-1,Travel Channel
+http://164.177.177.111:1212/udp/233.12.144.206:5050
+#EXTINF:-1,RTG
+http://164.177.177.111:1212/udp/233.12.144.222:5050
+#EXTINF:-1,Загородная жизнь
+http://164.177.177.111:1212/udp/233.12.144.232:5050
+#EXTINF:-1,Любимое кино
+http://164.177.177.111:1212/udp/233.12.144.234:5050
+#EXTINF:-1,Рыжий
+http://164.177.177.111:1212/udp/233.12.144.236:5050
+#EXTINF:-1,Киносерия
+http://164.177.177.111:1212/udp/233.12.144.238:5050
+#EXTINF:-1,Fine Living
+http://164.177.177.111:1212/udp/233.12.144.243:5050
+#EXTINF:-1,Food Network
+http://164.177.177.111:1212/udp/233.12.144.244:5050
+#EXTINF:-1,Мир сериала
+http://164.177.177.111:1212/udp/233.12.144.246:5050
+#EXTINF:-1,О!
+http://164.177.177.111:1212/udp/233.12.144.253:5050
+#EXTINF:-1,Shopping Live
+http://164.177.177.111:1212/udp/238.1.1.64:1234
+#EXTINF:-1,TV MALL
+http://164.177.177.111:1212/udp/239.54.6.10:1234
+#EXTINF:-1,Ювелирочка
+http://164.177.177.111:1212/udp/233.12.144.43:5050
+#EXTINF:-1,TV 5 Monde
+http://164.177.177.111:1212/udp/233.12.144.114:5050
+#EXTINF:-1,?
+http://164.177.177.111:1212/udp/235.73.101.11:2015
+#EXTINF:-1,МУЗ ТВ
+http://164.177.177.111:1212/udp/235.73.101.20:2015
+#EXTINF:-1,Dom Kino
+http://164.177.177.111:1212/udp/239.54.6.223:1234
+#EXTINF:-1,Телекафе
+http://164.177.177.111:1212/udp/239.54.6.226:1234
+#EXTINF:-1,Время
+http://164.177.177.111:1212/udp/239.54.6.227:1234
+#EXTINF:-1,Музыка Первого
+http://164.177.177.111:1212/udp/239.54.6.229:1234
+#EXTINF:-1,О!
+http://164.177.177.111:1212/udp/239.54.6.241:1234
+#EXTINF:-1,Bober
+http://164.177.177.111:1212/udp/239.54.6.245:1234
+#EXTINF:-1,Bridge TV
+http://164.177.177.111:1212/udp/233.221.253.54:1234
+
 #EXTINF:-1, Travel Guide TV [FHD]
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:-1, Суспільне ТБ
