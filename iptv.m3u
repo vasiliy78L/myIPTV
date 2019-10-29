@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1,Победа
-http://95.189.225.235:1234/udp/225.54.23.1:5000
-#EXTINF:-1,Победа
 http://myott.tv/stream/FBI5KR8DVL/312.m3u8
 #EXTINF:-1,Победа
 http://myott.tv/stream/M7U5IVRHMB/312.m3u8
@@ -1316,18 +1314,6 @@ http://79.140.8.204:1194/udp/239.2.80.45:1234
 http://79.140.8.204:1194/udp/239.2.80.62:1234
 #EXTINF:-1,TVGE
 http://79.140.8.204:1194/udp/239.2.80.71:1234
-#EXTINF:-1,Animal Planet (DRM)
-http://79.140.8.204:1194/udp/239.2.127.200:1234
-#EXTINF:-1,Квартал TV (DRM)
-http://79.140.8.204:1194/udp/239.2.119.40:1234
-#EXTINF:-1,Discovery World (DRM)
-http://79.140.8.204:1194/udp/239.2.43.124:1234
-#EXTINF:-1,Fashion UA (DRM)
-http://79.140.8.204:1194/udp/239.2.125.203:1234
-#EXTINF:-1,Радіо Емануіл
-http://79.140.8.204:1194/udp/239.0.1.51:1234
-#EXTINF:-1,Life Радио
-http://79.140.8.204:1194/udp/239.0.1.9:1234
 #EXTINF:-1,Радио Дача
 http://79.140.8.204:1194/udp/239.0.1.10:1234
 #EXTINF:-1,Радио SMNI/ВВС
@@ -1348,7 +1334,6 @@ http://79.140.8.204:1194/udp/239.1.52.69:1234
 http://79.140.8.204:1194/udp/239.2.175.95:1234
 #EXTINF:-1,Dorognoe Radio
 http://83.166.240.51:9000/dorognoe
-http://live.redtraffic.xyz/pornstar.m3u8
 #EXTINF:-1,POV HD 720 (18+)
 http://live.redtraffic.xyz/pov.m3u8
 #EXTINF:-1,Russian HD 720 (18+)
