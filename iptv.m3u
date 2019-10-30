@@ -807,814 +807,248 @@ http://188.35.9.11:2026
 #EXTINF:-1, Матч! Страна
 http://188.35.9.5:10007/stolen/124n/parasite.install
 #EXTINF:-1, Матч! [FHD]
-http://188.35.9.5:10007/stolen/196k/parasite.install
-
-
-    #EXTINF:-1,VIP Premiere
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/202/index.m3u
-    #EXTINF:-1,VIP Comedy
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/200/index.m3u
-    #EXTINF:-1,VIP Megahit
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/201/index.m3u
-    #EXTINF:-1,TV 1000
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/132/index.m3u
-    #EXTINF:-1,TV 1000 Action
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/131/index.m3u
-    #EXTINF:-1,TV1000 World Kino
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1065/index.m3u
-    #EXTINF:-1,TV 1000 Русское кино
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/101/index.m3u
-    #EXTINF:-1,Дом Кино
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/154/index.m3u
-    #EXTINF:-1,Любимое Кино
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/722/index.m3u
-    #EXTINF:-1,РОДНОЕ КИНО
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/126/index.m3u
-    #EXTINF:-1,Наше новое кино
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/517/index.m3u
-    #EXTINF:-1,Дом Кино Премиум HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/911/index.m3u
-    #EXTINF:-1,Наше крутое HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/915/index.m3u
-    #EXTINF:-1,КИНО ТВ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/732/index.m3u
-    #EXTINF:-1,МУЖСКОЕ КИНО
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/164/index.m3u
-    #EXTINF:-1,Hollywood
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/557/index.m3u
-    #EXTINF:-1,TV XXI
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/525/index.m3u
-    #EXTINF:-1,Шокирующее
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/913/index.m3u
-    #EXTINF:-1,Кинопоказ HD-2 https://iptv.live
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/912/index.m3u
-    #EXTINF:-1,Остросюжетное HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/904/index.m3u
-    #EXTINF:-1,Телекафе
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/865/index.m3u
-    #EXTINF:-1,КИНОСВИДАНИЕ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/728/index.m3u
-    #EXTINF:-1,КИНОМИКС
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/509/index.m3u
-    #EXTINF:-1,КИНОСЕМЬЯ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/125/index.m3u
-    #EXTINF:-1,Кинохит
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/516/index.m3u
-    #EXTINF:-1,КИНОСЕРИЯ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/148/index.m3u
-    #EXTINF:-1,КИНОКОМЕДИЯ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/145/index.m3u
-    #EXTINF:-1,Русский Иллюзион
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/547/index.m3u
-    #EXTINF:-1,Еврокино
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/549/index.m3u
-    #EXTINF:-1,Наш Кинороман HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/914/index.m3u
-    #EXTINF:-1,Ностальгия
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/102/index.m3u
-    #EXTINF:-1,Sony Sci-Fi
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/110/index.m3u
-    #EXTINF:-1,Amedia 2
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/510/index.m3u
-    #EXTINF:-1,ИНДИЙСКОЕ КИНО
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/146/index.m3u
-    #EXTINF:-1,Fox Russia
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/550/index.m3u
-    #EXTINF:-1,Fox Life
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/553/index.m3u
-    #EXTINF:-1,Amedia 1
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/554/index.m3u
-    #EXTINF:-1,Amedia Premium HD (SD)
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/555/index.m3u
-    #EXTINF:-1,AMEDIA HIT
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/556/index.m3u
-    #EXTINF:-1,Sony Entertainment Television
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/559/index.m3u
-    #EXTINF:-1,Sony Turbo
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/708/index.m3u
-    #EXTINF:-1,Русский бестселлер
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/905/index.m3u
-    #EXTINF:-1,Русский роман
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/906/index.m3u
-    #EXTINF:-1,Русский детектив
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/907/index.m3u
-    #EXTINF:-1,Русская Комедия
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/733/index.m3u
-    #EXTINF:-1,Hollywood HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/209/index.m3u
-    #EXTINF:-1,КИНОПРЕМЬЕРА HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/224/index.m3u
-    #EXTINF:-1,Bollywood HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/239/index.m3u
-    #EXTINF:-1,НСТ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/726/index.m3u
-    #EXTINF:-1,Bollywood
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/719/index.m3u
-    #EXTINF:-1,ZEE TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1001/index.m3u
-    #EXTINF:-1,FilmBox EN
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1071/index.m3u
-    #EXTINF:-1,Дорама
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1066/index.m3u
-    #EXTINF:-1,Мир Сериала
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/856/index.m3u
-    #EXTINF:-1,Spike Russia https://iptv.live
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/849/index.m3u
-    #EXTINF:-1,Paramount Comedy Russia
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/157/index.m3u
-    #EXTINF:-1,НТВ‑ХИТ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/741/index.m3u
-    #EXTINF:-1,НТВ Сериал
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/744/index.m3u
-    #EXTINF:-1,РЕН ТВ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/128/index.m3u
-    #EXTINF:-1,РЕН ТВ (+2)
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/747/index.m3u
-    #EXTINF:-1,ТВ3
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/508/index.m3u
-    #EXTINF:-1,НТВ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/501/index.m3u
-    #EXTINF:-1,НТВ (+2)
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/713/index.m3u
-    #EXTINF:-1,НТВ Право
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/743/index.m3u
-    #EXTINF:-1,НТВ Стиль
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/745/index.m3u
-    #EXTINF:-1,Пятница
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/503/index.m3u
-    #EXTINF:-1,Россия 1
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/504/index.m3u
-    #EXTINF:-1,Время
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/552/index.m3u
-    #EXTINF:-1,Первый канал (+2)
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/714/index.m3u
-    #EXTINF:-1,Пятый Канал
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/112/index.m3u
-    #EXTINF:-1,Пятый Канал (+2)
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/746/index.m3u
-    #EXTINF:-1,Санкт-Петербург
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/715/index.m3u
-    #EXTINF:-1,СТС
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/506/index.m3u
-    #EXTINF:-1,СТС Love
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/103/index.m3u
-    #EXTINF:-1,Супер
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/518/index.m3u8
-    #EXTINF:-1,ТНТ HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/237/index.m3u
-    #EXTINF:-1,Мир HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/235/index.m3u
-    #EXTINF:-1,НТВ HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/213/index.m3u
-    #EXTINF:-1,Первый HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/204/index.m3u
-    #EXTINF:-1,Звезда (+2)
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/739/index.m3u
-    #EXTINF:-1,Ю ТВ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/534/index.m3u
-    #EXTINF:-1,ТНТ (+2)
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/717/index.m3u
-    #EXTINF:-1,ТНТ4
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/104/index.m3u
-    #EXTINF:-1,Супер
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/826/index.m3u
-    #EXTINF:-1,Мир
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/113/index.m3u
-    #EXTINF:-1,ТНТ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/502/index.m3u
-    #EXTINF:-1,Первый канал
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/127/index.m3u
-    #EXTINF:-1,Че
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/513/index.m3u
-    #EXTINF:-1,Домашний
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/514/index.m3u
-    #EXTINF:-1,ТНВ-Планета
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/515/index.m3u
-    #EXTINF:-1,ТВЦ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/520/index.m3u
-    #EXTINF:-1,ОТР
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/705/index.m3u
-    #EXTINF:-1,CBS Reality
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/706/index.m3u
-    #EXTINF:-1,ТВЦ (+2)
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/716/index.m3u
-    #EXTINF:-1,ТВЦ-Урал
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/834/index.m3u
-    #EXTINF:-1,БелРос
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/835/index.m3u
-    #EXTINF:-1,РБК-ТВ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/106/index.m3u
-    #EXTINF:-1,Россия-24
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/507/index.m3u
-    #EXTINF:-1,Москва 24
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/523/index.m3u
-    #EXTINF:-1,Мир 24
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/712/index.m3u
-    #EXTINF:-1,Euronews
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/969/index.m3u
-    #EXTINF:-1,Инфоканал
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/407/index.m3u
-    #EXTINF:-1,360°
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/825/index.m3u
-    #EXTINF:-1,Euronews Россия
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/828/index.m3u
-    #EXTINF:-1,2X2
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/702/index.m3u
-    #EXTINF:-1,CGTN русский
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/831/index.m3u
-    #EXTINF:-1,История
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/111/index.m3u
-    #EXTINF:-1,Моя Планета
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/117/index.m3u
-    #EXTINF:-1,Наука 2.0
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/118/index.m3u
-    #EXTINF:-1,Outdoor Channel
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/119/index.m3u
-    #EXTINF:-1,Сов. Секретно
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/121/index.m3u
-    #EXTINF:-1,Россия-Культура
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/505/index.m3u
-    #EXTINF:-1,Доктор
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/512/index.m3u
-    #EXTINF:-1,Авто 24
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/538/index.m3u
-    #EXTINF:-1,Nat Geo Wild
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/133/index.m3u
-    #EXTINF:-1,nat geographic
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/134/index.m3u
-    #EXTINF:-1,Discovery Channel
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/140/index.m3u
-    #EXTINF:-1,Discovery Science
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/136/index.m3u
-    #EXTINF:-1,Animal Planet
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/137/index.m3u
-    #EXTINF:-1,ID Xtra
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/139/index.m3u
-    #EXTINF:-1,Авто Плюс
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/151/index.m3u
-    #EXTINF:-1,Кухня ТВ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/152/index.m3u
-    #EXTINF:-1,Домашние Животные
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/158/index.m3u
-    #EXTINF:-1,Точка отрыва
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/159/index.m3u
-    #EXTINF:-1,Надежда
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/656/index.m3u
-    #EXTINF:-1,Viasat Nature
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/161/index.m3u
-    #EXTINF:-1,Viasat History
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/162/index.m3u
-    #EXTINF:-1,Viasat Explore
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/163/index.m3u
-    #EXTINF:-1,Travel Channel
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/130/index.m3u
-    #EXTINF:-1,Первый образовательный
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/701/index.m3u
-    #EXTINF:-1,OCEAN-TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/703/index.m3u
-    #EXTINF:-1,Бобёр
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/725/index.m3u
-    #EXTINF:-1,Зоопарк
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/731/index.m3u
-    #EXTINF:-1,E
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/736/index.m3u
-    #EXTINF:-1,Морской
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/742/index.m3u
-    #EXTINF:-1,Усадьба
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/532/index.m3u
-    #EXTINF:-1,H2
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1052/index.m3u
-    #EXTINF:-1,Travel TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1044/index.m3u
-    #EXTINF:-1,Classical Harmony
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1037/index.m3u
-    #EXTINF:-1,Travel Channel EN
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1070/index.m3u
-    #EXTINF:-1,History Russia
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/837/index.m3u
-    #EXTINF:-1,RTG TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/841/index.m3u
-    #EXTINF:-1,Диалоги о рыбалке
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/844/index.m3u
-    #EXTINF:-1,Первый Метео
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/845/index.m3u
-    #EXTINF:-1,Дикий
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/847/index.m3u
-    #EXTINF:-1,travel+adventure
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/850/index.m3u
-    #EXTINF:-1,TRiCK
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/858/index.m3u
-    #EXTINF:-1,Поехали!
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/135/index.m3u
-    #EXTINF:-1,ЖАРА
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/105/index.m3u
-    #EXTINF:-1,Телеканал Да Винчи
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/537/index.m3u
-    #EXTINF:-1,Телеканал Звезда
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/544/index.m3u
-    #EXTINF:-1,КВН ТВ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/546/index.m3u
-    #EXTINF:-1,Мама
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/704/index.m3u
-    #EXTINF:-1,Fine Living
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/735/index.m3u
-    #EXTINF:-1,ЖИВИ!
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/738/index.m3u
-    #EXTINF:-1,Сарафан
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/748/index.m3u
-    #EXTINF:-1,CNL
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/955/index.m3u
-    #EXTINF:-1,AzTV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/966/index.m3u
-    #EXTINF:-1,Kabbala TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/970/index.m3u
-    #EXTINF:-1,Life TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/971/index.m3u
-    #EXTINF:-1,Йога 23
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/974/index.m3u
-    #EXTINF:-1,СПАС
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/983/index.m3u
-    #EXTINF:-1,Возрождение
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/984/index.m3u
-    #EXTINF:-1,Архыз 24
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1049/index.m3u
-    #EXTINF:-1,CBC AZ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1050/index.m3u
-    #EXTINF:-1,8 канал Красноярский край
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1058/index.m3u
-    #EXTINF:-1,Астрахань 24
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1059/index.m3u
-    #EXTINF:-1,Беларусь 24
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1061/index.m3u
-    #EXTINF:-1,Башкирское спутниковое телевидение
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/832/index.m3u
-    #EXTINF:-1,Первый Вегетарианский
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/833/index.m3u
-    #EXTINF:-1,RT Documentary
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/839/index.m3u
-    #EXTINF:-1,Просвещение
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/846/index.m3u
-    #EXTINF:-1,Продвижение
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/851/index.m3u
-    #EXTINF:-1,Загородная Жизнь
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/852/index.m3u
-    #EXTINF:-1,ДОН 24
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/854/index.m3u
-    #EXTINF:-1,Грозный
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/855/index.m3u
-    #EXTINF:-1,Брянская Губерния
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/857/index.m3u
-    #EXTINF:-1,Твой дом
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/864/index.m3u
-    #EXTINF:-1,Кубань 24 ОРБИТА
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/866/index.m3u
-    #EXTINF:-1,Губерния
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/867/index.m3u
-    #EXTINF:-1,ACB TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/868/index.m3u
-    #EXTINF:-1,Москва Доверие
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/869/index.m3u
-    #EXTINF:-1,МАТЧ! СТРАНА
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/107/index.m3u
-    #EXTINF:-1,Матч! Планета
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/123/index.m3u
-    #EXTINF:-1,Матч! Футбол 1
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/124/index.m3u
-    #EXTINF:-1,МАТЧ ПРЕМЬЕР
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/531/index.m3u
-    #EXTINF:-1,KHL
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/519/index.m3u
-    #EXTINF:-1,Матч! Футбол 3
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/522/index.m3u
-    #EXTINF:-1,Матч! Арена
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/528/index.m3u
-    #EXTINF:-1,Матч! Игра
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/529/index.m3u
-    #EXTINF:-1,Матч! Футбол 2
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/530/index.m3u
-    #EXTINF:-1,Матч ТВ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/535/index.m3u
-    #EXTINF:-1,Eurosport 1
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/141/index.m3u
-    #EXTINF:-1,Extreme Sports
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/144/index.m3u
-    #EXTINF:-1,Матч! Боец
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/150/index.m3u
-    #EXTINF:-1,Viasat Sport
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/160/index.m3u
-    #EXTINF:-1,M-1 Global TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/843/index.m3u
-    #EXTINF:-1,Бокс ТВ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/870/index.m3u
-    #EXTINF:-1,Viasat Nature/History HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/203/index.m3u
-    #EXTINF:-1,Россия 1 HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/205/index.m3u
-    #EXTINF:-1,Матч! Футбол 3 HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/206/index.m3u
-    #EXTINF:-1,Матч! Арена HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/207/index.m3u
-    #EXTINF:-1,Viasat Sport HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/208/index.m3u
-    #EXTINF:-1,RTG HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/210/index.m3u
-    #EXTINF:-1,Матч! Футбол 2 HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/211/index.m3u
-    #EXTINF:-1,Матч! HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/212/index.m3u
-    #EXTINF:-1,Конный Мир HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/214/index.m3u
-    #EXTINF:-1,Телеканал КХЛ HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/215/index.m3u
-    #EXTINF:-1,Nat Geo Wild HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/216/index.m3u
-    #EXTINF:-1,Animal Planet HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/218/index.m3u
-    #EXTINF:-1,Fox HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/219/index.m3u
-    #EXTINF:-1,МАТЧ ПРЕМЬЕР HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/220/index.m3u
-    #EXTINF:-1,MTV Live HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/221/index.m3u
-    #EXTINF:-1,Матч! Футбол 1 HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/222/index.m3u
-    #EXTINF:-1,Nickelodeon HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/223/index.m3u
-    #EXTINF:-1,Матч! Игра HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/225/index.m3u
-    #EXTINF:-1,HD Life
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/226/index.m3u
-    #EXTINF:-1,Discovery Channel HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/227/index.m3u
-    #EXTINF:-1,Eurosport 1 HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/228/index.m3u
-    #EXTINF:-1,Amedia Premium HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/229/index.m3u
-    #EXTINF:-1,National Geographic HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/230/index.m3u
-    #EXTINF:-1,History HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/231/index.m3u
-    #EXTINF:-1,TLC HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/232/index.m3u
-    #EXTINF:-1,Travel Channel HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/233/index.m3u
-    #EXTINF:-1,Eurosport 2 North-East HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/234/index.m3u
-    #EXTINF:-1,Охотник и рыболов HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/917/index.m3u
-    #EXTINF:-1,ЕДА Премиум
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/918/index.m3u
-    #EXTINF:-1,BRIDGE HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/236/index.m3u
-    #EXTINF:-1,1HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/238/index.m3u
-    #EXTINF:-1,Теледом
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/954/index.m3u
-    #EXTINF:-1,Настоящее время
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/986/index.m3u
-    #EXTINF:-1,Travel HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1043/index.m3u
-    #EXTINF:-1,XSPORT HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/996/index.m3u
-    #EXTINF:-1,Epic Drama
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1048/index.m3u
-    #EXTINF:-1,Эврика HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/908/index.m3u
-    #EXTINF:-1,Приключения HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/920/index.m3u
-    #EXTINF:-1,Deluxe Lounge HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/968/index.m3u
-    #EXTINF:-1,SHOT TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/526/index.m3u
-    #EXTINF:-1,Playboy
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/527/index.m3u
-    #EXTINF:-1,Русская Ночь
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/147/index.m3u
-    #EXTINF:-1,Brazzers TV Europe
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/910/index.m3u
-    #EXTINF:-1,Искушение HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/919/index.m3u
-    #EXTINF:-1,Шалун
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/922/index.m3u
-    #EXTINF:-1,Candy
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/923/index.m3u
-    #EXTINF:-1,Penthouse TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1073/index.m3u
-    #EXTINF:-1,Blue Hustler
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1064/index.m3u
-    #EXTINF:-1,Barely legal
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/871/index.m3u
-    #EXTINF:-1,BRAZZERS TV Europe 2
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/872/index.m3u
-    #EXTINF:-1,Sexto Senso
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/875/index.m3u
-    #EXTINF:-1,PRIVE
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/877/index.m3u
-    #EXTINF:-1,Passion XXX
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/878/index.m3u
-    #EXTINF:-1,Redlight HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/242/index.m3u
-    #EXTINF:-1,Private TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/243/index.m3u
-    #EXTINF:-1,Hustler HD Europe
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/244/index.m3u
-    #EXTINF:-1,Dorcel TV HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/245/index.m3u
-    #EXTINF:-1,Pink'o TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/874/index.m3u
-    #EXTINF:-1,Europa Plus TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/115/index.m3u
-    #EXTINF:-1,МУЗ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/116/index.m3u
-    #EXTINF:-1,BRIDGE TV Русский Хит
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/120/index.m3u
-    #EXTINF:-1,Bridge TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/122/index.m3u
-    #EXTINF:-1,MTV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/142/index.m3u
-    #EXTINF:-1,MTV Hits
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/153/index.m3u
-    #EXTINF:-1,Музыка
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/155/index.m3u
-    #EXTINF:-1,VH1 European
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/536/index.m3u
-    #EXTINF:-1,MTV Dance
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/558/index.m3u
-    #EXTINF:-1,Mezzo
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/707/index.m3u
-    #EXTINF:-1,ТНТ MUSIC
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/710/index.m3u
-    #EXTINF:-1,BRIDGE TV DANCE
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/711/index.m3u
-    #EXTINF:-1,Наше ТВ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/721/index.m3u
-    #EXTINF:-1,VH1 Classic
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/724/index.m3u
-    #EXTINF:-1,Vostok TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1054/index.m3u
-    #EXTINF:-1,MTV Rocks
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1038/index.m3u
-    #EXTINF:-1,MCM Top Russia
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/836/index.m3u
-    #EXTINF:-1,N/A
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/838/index.m3u
-    #EXTINF:-1,Шансон ТВ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/859/index.m3u
-    #EXTINF:-1,VIVA TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/301/index.m3u
-    #EXTINF:-1,5 канал
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/945/index.m3u
-    #EXTINF:-1,Brain TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/948/index.m3u
-    #EXTINF:-1,M1
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/949/index.m3u
-    #EXTINF:-1,M2
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/950/index.m3u
-    #EXTINF:-1,24 Канал
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/951/index.m3u
-    #EXTINF:-1,ATR
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/952/index.m3u
-    #EXTINF:-1,Lale
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/953/index.m3u
-    #EXTINF:-1,Надiя ТВ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/956/index.m3u
-    #EXTINF:-1,Перший Захiдний
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/957/index.m3u
-    #EXTINF:-1,UA: ЗАКАРПАТТЯ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/958/index.m3u
-    #EXTINF:-1,BBB TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/959/index.m3u
-    #EXTINF:-1,Центральный канал
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/963/index.m3u
-    #EXTINF:-1,Черноморская ТРК
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/965/index.m3u
-    #EXTINF:-1,112 Україна
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/924/index.m3u
-    #EXTINF:-1,EU Music
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/925/index.m3u
-    #EXTINF:-1,NewsOne
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/926/index.m3u
-    #EXTINF:-1,Eспресо TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/927/index.m3u
-    #EXTINF:-1,СТБ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/928/index.m3u
-    #EXTINF:-1,Мега
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/929/index.m3u
-    #EXTINF:-1,К2
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/930/index.m3u
-    #EXTINF:-1,К1
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/931/index.m3u
-    #EXTINF:-1,Квартал ТВ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/932/index.m3u
-    #EXTINF:-1,Enter-фільм
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/933/index.m3u
-    #EXTINF:-1,ICTV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/934/index.m3u
-    #EXTINF:-1,Новий Канал
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/935/index.m3u
-    #EXTINF:-1,НТН
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/936/index.m3u
-    #EXTINF:-1,Інтер
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/937/index.m3u
-    #EXTINF:-1,Пiксель ТВ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/938/index.m3u
-    #EXTINF:-1,Первый городской (Кривой Рог)
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/939/index.m3u
-    #EXTINF:-1,Культура
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/941/index.m3u
-    #EXTINF:-1,Телевсесвiт
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/942/index.m3u
-    #EXTINF:-1,Медiаiнформ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/943/index.m3u
-    #EXTINF:-1,N/A
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/944/index.m3u
-    #EXTINF:-1,ТРК Алекс
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/967/index.m3u
-    #EXTINF:-1,Глас
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/972/index.m3u
-    #EXTINF:-1,Правда Тут
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/973/index.m3u
-    #EXTINF:-1,Тернопіль 1
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/975/index.m3u
-    #EXTINF:-1,Рада
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/976/index.m3u
-    #EXTINF:-1,News Network
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/978/index.m3u
-    #EXTINF:-1,Южная волна
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/979/index.m3u
-    #EXTINF:-1,Первый городской
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/981/index.m3u
-    #EXTINF:-1,СК1
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/982/index.m3u
-    #EXTINF:-1,Перший дiловий
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/985/index.m3u
-    #EXTINF:-1,1+1 International
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/987/index.m3u
-    #EXTINF:-1,Громадське
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/988/index.m3u
-    #EXTINF:-1,BOLT
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/991/index.m3u
-    #EXTINF:-1,Star Cinema
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/992/index.m3u
-    #EXTINF:-1,Чернiвецький Промiнь
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1004/index.m3u
-    #EXTINF:-1,UA:Перший
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1016/index.m3u
-    #EXTINF:-1,UA:Крым
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1017/index.m3u
-    #EXTINF:-1,N/A
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1027/index.m3u
-    #EXTINF:-1,OBOZ TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1028/index.m3u
-    #EXTINF:-1,TV5
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1030/index.m3u
-    #EXTINF:-1,Star Family
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1042/index.m3u
-    #EXTINF:-1,Интер+
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1047/index.m3u
-    #EXTINF:-1,O-TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1055/index.m3u
-    #EXTINF:-1,1+1
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/994/index.m3u
-    #EXTINF:-1,2+2
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/995/index.m3u
-    #EXTINF:-1,XSPORT
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/997/index.m3u
-    #EXTINF:-1,Бiгудi
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/989/index.m3u
-    #EXTINF:-1,НТА
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/990/index.m3u
-    #EXTINF:-1,ТВА
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/998/index.m3u
-    #EXTINF:-1,ZOOM
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1000/index.m3u
-    #EXTINF:-1,ПлюсПлюс
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1002/index.m3u
-    #EXTINF:-1,Малятко ТВ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1003/index.m3u
-    #EXTINF:-1,Галичина
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1005/index.m3u
-    #EXTINF:-1,Еко TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1006/index.m3u
-    #EXTINF:-1,ZIK HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1007/index.m3u
-    #EXTINF:-1,ZIK
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1008/index.m3u
-    #EXTINF:-1,ТЕТ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1009/index.m3u
-    #EXTINF:-1,Сонце
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1013/index.m3u
-    #EXTINF:-1,Прямий
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1014/index.m3u
-    #EXTINF:-1,Прямий HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1015/index.m3u
-    #EXTINF:-1,Music Box UA
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1018/index.m3u
-    #EXTINF:-1,КРТ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1019/index.m3u
-    #EXTINF:-1,ЧП.INFO
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1020/index.m3u
-    #EXTINF:-1,Ескулап TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1022/index.m3u
-    #EXTINF:-1,УНІАН
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1023/index.m3u
-    #EXTINF:-1,UA|TV HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1024/index.m3u
-    #EXTINF:-1,36.6 TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1025/index.m3u
-    #EXTINF:-1,7 канал
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1035/index.m3u
-    #EXTINF:-1,Music Box UA HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1036/index.m3u
-    #EXTINF:-1,ТРК Круг
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1040/index.m3u
-    #EXTINF:-1,ТРК Київ
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1045/index.m3u
-    #EXTINF:-1,8 Канал
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1046/index.m3u
-    #EXTINF:-1,Чернiвцi
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1072/index.m3u
-    #EXTINF:-1,24 Канал HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1063/index.m3u
-    #EXTINF:-1,4 канал
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1039/index.m3u
-    #EXTINF:-1,Футбол 1
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1109/index.m3u
-    #EXTINF:-1,Футбол 2
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1110/index.m3u
-    #EXTINF:-1,Tiji TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/108/index.m3u
-    #EXTINF:-1,Gulli
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/109/index.m3u
-    #EXTINF:-1,Nick Jr
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/114/index.m3u
-    #EXTINF:-1,Nickelodeon
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/541/index.m3u
-    #EXTINF:-1,Disney
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/524/index.m3u
-    #EXTINF:-1,Детский мир
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/543/index.m3u
-    #EXTINF:-1,Jim Jam
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/138/index.m3u
-    #EXTINF:-1,Cartoon Network
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/143/index.m3u
-    #EXTINF:-1,Карусель
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/156/index.m3u
-    #EXTINF:-1,Ani
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/129/index.m3u
-    #EXTINF:-1,Мульт
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/909/index.m3u
-    #EXTINF:-1,Тлум HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/240/index.m3u
-    #EXTINF:-1,Boomerang
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/723/index.m3u
-    #EXTINF:-1,О!
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/727/index.m3u
-    #EXTINF:-1,Детский
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/730/index.m3u
-    #EXTINF:-1,В гостях у сказки
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/737/index.m3u
-    #EXTINF:-1,Карусель (+3)
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/740/index.m3u
-    #EXTINF:-1,Мультимузыка
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/749/index.m3u
-    #EXTINF:-1,Мультик HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/921/index.m3u
-    #EXTINF:-1,Duck TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1031/index.m3u
-    #EXTINF:-1,Da Vinci Kids
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1033/index.m3u
-    #EXTINF:-1,Da Vinci Kids PL
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1034/index.m3u
-    #EXTINF:-1,Малыш
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1041/index.m3u
-    #EXTINF:-1,Nickelodeon EN
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1069/index.m3u
-    #EXTINF:-1,Радость моя
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/853/index.m3u
-    #EXTINF:-1,Диологи о рыбалке
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/542/index.m3u8
-    #EXTINF:-1,Малыш
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/720/index.m3u8
-    #EXTINF:-1,Eurosport 2
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/539/index.m3u8
-    #EXTINF:-1,Время
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/552/index.m3u8.
-    #EXTINF:-1,sentana sports HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/270/index.m3u8
-    #EXTINF:-1,sentana sports HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/271/index.m3u8
-    #EXTINF:-1,ТБН Россия
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1056/index.m3u8
-    #EXTINF:-1,Грозный
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1060/index.m3u8
-    #EXTINF:-1,HardLife TV
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1062/index.m3u8
-    #EXTINF:-1,ILand
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/1067/index.m3u8
-    #EXTINF:-1,Футбол 1 HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/800/index.m3u8
-    #EXTINF:-1,Футбол 2 HD
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/801/index.m3u8
-    #EXTINF:-1,Перший козацький
-    http://31acd4b3.ottv.biz/iptv/5F258VXPVXPSYD/980/index.m3u8
+http://188.35.9#EXTINF:-1,Морской
+http://164.177.176.33:34040/udp/233.12.144.11:5050
+#EXTINF:-1,РБК
+http://164.177.176.33:34040/udp/233.12.144.60:5050
+#EXTINF:-1,Че
+http://164.177.176.33:34040/udp/233.12.144.25:5050
+#EXTINF:-1,Ю ТВ
+http://164.177.176.33:34040/udp/233.12.144.80:5050
+#EXTINF:-1,Disney Channel
+http://164.177.176.33:34040/udp/233.12.144.32:5050
+#EXTINF:-1,Sony Sci-Fi
+http://164.177.176.33:34040/udp/233.12.144.17:5050
+#EXTINF:-1,Sony Turbo
+http://164.177.176.33:34040/udp/233.12.144.16:5050
+#EXTINF:-1,Дом Кино
+http://164.177.176.33:34040/udp/233.12.144.33:5050
+#EXTINF:-1,Zee TV
+http://164.177.176.33:34040/udp/233.12.144.27:5050
+#EXTINF:-1,Русский Экстрим
+http://164.177.176.33:34040/udp/233.12.144.127:5050
+#EXTINF:-1,MTV HD
+http://164.177.176.33:34040/udp/233.12.144.84:5050
+#EXTINF:-1,MTV Rocks
+http://164.177.176.33:34040/udp/233.12.144.86:5050
+#EXTINF:-1,VH1 Classic
+http://164.177.176.33:34040/udp/233.12.144.87:5050
+#EXTINF:-1,Bridge TV
+http://164.177.176.33:34040/udp/233.12.144.4:5050
+#EXTINF:-1,RU TV
+http://164.177.176.33:34040/udp/233.12.144.14:5050
+#EXTINF:-1,Наше TV
+http://164.177.176.33:34040/udp/233.12.144.203:5050
+#EXTINF:-1,ТНТ Music
+http://164.177.176.33:34040/udp/233.12.144.3:5050
+#EXTINF:-1,Музыка Первого
+http://164.177.176.33:34040/udp/233.12.144.47:5050
+#EXTINF:-1,ТНТ4
+http://164.177.176.33:34040/udp/233.12.144.202:5050
+#EXTINF:-1,Морской
+http://164.177.176.33:34040/udp/233.12.144.11:5050
+#EXTINF:-1,СТС Love
+http://164.177.176.33:34040/udp/233.12.144.92:5050
+#EXTINF:-1,Nickelodeon
+http://164.177.176.33:34040/udp/233.12.144.12:5050
+#EXTINF:-1,Nick Jr.
+http://164.177.176.33:34040/udp/233.12.144.85:5050
+#EXTINF:-1,Gulli Girl https://iptv.live
+http://164.177.176.33:34040/udp/233.12.144.110:5050
+#EXTINF:-1,TiJi
+http://164.177.176.33:34040/udp/233.12.144.118:5050
+#EXTINF:-1,Детский
+http://164.177.176.33:34040/udp/233.12.144.30:5050
+#EXTINF:-1,Радость Моя
+http://164.177.176.33:34040/udp/233.12.144.59:5050
+#EXTINF:-1,Время
+http://164.177.176.33:34040/udp/233.12.144.29:5050
+#EXTINF:-1,Ретро
+http://164.177.176.33:34040/udp/233.12.144.61:5050
+#EXTINF:-1,World Fashion HD
+http://164.177.176.33:34040/udp/233.12.144.26:5050
+#EXTINF:-1,ТелеКафе
+http://164.177.176.33:34040/udp/233.12.144.76:5050
+#EXTINF:-1,Драйв
+http://164.177.176.33:34040/udp/233.12.144.35:5050
+#EXTINF:-1,Охота и Рыбалка
+http://164.177.176.33:34040/udp/233.12.144.54:5050
+#EXTINF:-1,Усадьба
+http://164.177.176.33:34040/udp/233.12.144.79:5050
+#EXTINF:-1,World Busines Channel HD
+http://164.177.176.33:34040/udp/233.12.144.120:5050
+#EXTINF:-1,PRO Бизнес
+http://164.177.176.33:34040/udp/233.12.144.91:5050
+#EXTINF:-1,Мир 24
+http://164.177.176.33:34040/udp/233.12.144.44:5050
+#EXTINF:-1,8 Канал
+http://164.177.176.33:34040/udp/233.12.144.81:5050
+#EXTINF:-1,ТНВ Татарстан
+http://164.177.176.33:34040/udp/233.12.144.77:5050
+#EXTINF:-1,DW
+http://164.177.176.33:34040/udp/233.12.144.138:5050
+#EXTINF:-1,France 24
+http://164.177.176.33:34040/udp/233.12.144.107:5050
+#EXTINF:-1,Russia Today Doc HD
+http://164.177.176.33:34040/udp/233.12.144.109:5050
+#EXTINF:-1,Amedia 1 HD
+http://164.177.176.33:34040/udp/233.12.144.134:5050
+#EXTINF:-1,Amedia 2
+http://164.177.176.33:34040/udp/233.12.144.181:5050
+#EXTINF:-1,Мир
+http://164.177.176.33:34040/udp/226.100.10.31:2000
+#EXTINF:-1,Animal Planet HD
+http://164.177.176.33:34040/udp/239.54.6.94:1234
+#EXTINF:-1,TLC HD
+http://164.177.176.33:34040/udp/239.54.6.83:1234
+#EXTINF:-1,Discovery Channel HD
+http://164.177.176.33:34040/udp/239.54.6.86:1234
+#EXTINF:-1,Мульт
+http://164.177.176.33:34040/udp/239.54.6.27:1224
+#EXTINF:-1,SET
+http://164.177.176.33:34040/udp/239.54.6.47:1224
+#EXTINF:-1,Nano TV
+http://164.177.176.33:34040/udp/239.54.6.40:1224
+#EXTINF:-1,Шансон ТВ
+http://164.177.176.33:34040/udp/239.54.6.11:1224
+#EXTINF:-1,Eurosport 1 HD
+http://164.177.176.33:34040/udp/239.54.6.174:1224
+#EXTINF:-1,КХЛ
+http://164.177.176.33:34040/udp/233.12.144.42:5050
+#EXTINF:-1,МАТЧ! НАШ СПОРТ
+http://164.177.176.33:34040/udp/233.12.144.52:5050
+#EXTINF:-1,Кино Плюс
+http://164.177.176.33:34040/udp/233.12.144.51:5050
+#EXTINF:-1,Кухня ТВ
+http://164.177.176.33:34040/udp/233.12.144.41:5050
+#EXTINF:-1,Детский Мир
+http://164.177.176.33:34040/udp/233.12.144.31:5050
+#EXTINF:-1,Бобер
+http://164.177.176.33:34040/udp/233.12.144.45:5050
+#EXTINF:-1,Russian MusicBox
+http://164.177.176.33:34040/udp/233.12.144.68:5050
+#EXTINF:-1,Первый образовательный
+http://164.177.176.33:34040/udp/233.12.144.117:5050
+#EXTINF:-1,365 дней
+http://164.177.176.33:34040/udp/233.12.144.132:5050
+#EXTINF:-1,Eureka HD
+http://164.177.176.33:34040/udp/233.12.144.142:5050
+#EXTINF:-1,MusicBoxTV
+http://164.177.176.33:34040/udp/233.12.144.147:5050
+#EXTINF:-1,Охотник и рыболов HD
+http://164.177.176.33:34040/udp/233.12.144.191:5050
+#EXTINF:-1,Юмор ТВ
+http://164.177.176.33:34040/udp/233.12.144.199:5050
+#EXTINF:-1,Teletravel HD
+http://164.177.176.33:34040/udp/233.12.144.200:5050
+#EXTINF:-1,Travel Channel
+http://164.177.176.33:34040/udp/233.12.144.206:5050
+#EXTINF:-1,RTG
+http://164.177.176.33:34040/udp/233.12.144.222:5050
+#EXTINF:-1,Загородная жизнь
+http://164.177.176.33:34040/udp/233.12.144.232:5050
+#EXTINF:-1,Любимое кино
+http://164.177.176.33:34040/udp/233.12.144.234:5050
+#EXTINF:-1,Рыжий
+http://164.177.176.33:34040/udp/233.12.144.236:5050
+#EXTINF:-1,Киносерия
+http://164.177.176.33:34040/udp/233.12.144.238:5050
+#EXTINF:-1,Fine Living
+http://164.177.176.33:34040/udp/233.12.144.243:5050
+#EXTINF:-1,Food Network
+http://164.177.176.33:34040/udp/233.12.144.244:5050
+#EXTINF:-1,Мир сериала
+http://164.177.176.33:34040/udp/233.12.144.246:5050
+#EXTINF:-1,О!
+http://164.177.176.33:34040/udp/233.12.144.253:5050
+#EXTINF:-1,Shopping Live
+http://164.177.176.33:34040/udp/238.1.1.64:1234
+#EXTINF:-1,TV MALL
+http://164.177.176.33:34040/udp/239.54.6.10:1234
+#EXTINF:-1,Ювелирочка
+http://164.177.176.33:34040/udp/233.12.144.43:5050
+#EXTINF:-1,TV 5 Monde
+http://164.177.176.33:34040/udp/233.12.144.114:5050
+#EXTINF:-1,Top Shop TV
+http://164.177.176.33:34040/udp/233.12.144.15:5050
+#EXTINF:-1,DRM HD
+http://164.177.176.33:34040/udp/233.12.144.95:5050
+#EXTINF:-1,Спас
+http://164.177.176.33:34040/udp/233.12.144.21:5050
+#EXTINF:-1,TV Sale
+http://164.177.176.33:34040/udp/233.12.144.226:5050
+#EXTINF:-1,Shop and Show
+http://164.177.176.33:34040/udp/233.12.144.251:5050
+#EXTINF:-1,ПЕРВЫЙ
+http://164.177.176.33:34040/udp/235.73.101.1:2015
+#EXTINF:-1,02 Russia 1 GTRK Volga
+http://164.177.176.33:34040/udp/235.73.101.2:2015
+#EXTINF:-1,МАТЧ ТВ
+http://164.177.176.33:34040/udp/235.73.101.3:2015
+#EXTINF:-1,НТВ
+http://164.177.176.33:34040/udp/235.73.101.4:2015
+#EXTINF:-1,ПЯТЫЙ
+http://164.177.176.33:34040/udp/235.73.101.5:2015
+#EXTINF:-1,РОССИЯ К
+http://164.177.176.33:34040/udp/235.73.101.6:2015
+#EXTINF:-1,РОССИЯ 24
+http://164.177.176.33:34040/udp/235.73.101.7:2015
+#EXTINF:-1,КАРУСЕЛЬ
+http://164.177.176.33:34040/udp/235.73.101.8:2015
+#EXTINF:-1,ОТР
+http://164.177.176.33:34040/udp/235.73.101.9:2015
+#EXTINF:-1,ТВЦ
+http://164.177.176.33:34040/udp/235.73.101.10:2015
+#EXTINF:-1,?
+http://164.177.176.33:34040/udp/235.73.101.11:2015
+#EXTINF:-1,СПАС
+http://164.177.176.33:34040/udp/235.73.101.12:2015
+#EXTINF:-1,СТС
+http://164.177.176.33:34040/udp/235.73.101.13:2015
+#EXTINF:-1,ДОМАШНИЙ
+http://164.177.176.33:34040/udp/235.73.101.14:2015
+#EXTINF:-1,ТВ-3
+http://164.177.176.33:34040/udp/235.73.101.15:2015
+#EXTINF:-1,ПЯТНИЦА
+http://164.177.176.33:34040/udp/235.73.101.16:2015
+#EXTINF:-1,ЗВЕЗДА
+http://164.177.176.33:34040/udp/235.73.101.17:2015
+#EXTINF:-1,МИР
+http://164.177.176.33:34040/udp/235.73.101.18:2015
+#EXTINF:-1,ТНТ
+http://164.177.176.33:34040/udp/235.73.101.19:2015
+#EXTINF:-1,МУЗ ТВ
+http://164.177.176.33:34040/udp/235.73.101.20:2015
+#EXTINF:-1,Dom Kino
+http://164.177.176.33:34040/udp/239.54.6.223:1234
+#EXTINF:-1,Телекафе
+http://164.177.176.33:34040/udp/239.54.6.226:1234
+#EXTINF:-1,Время
+http://164.177.176.33:34040/udp/239.54.6.227:1234
+#EXTINF:-1,Музыка Первого
+http://164.177.176.33:34040/udp/239.54.6.229:1234
+#EXTINF:-1,О!
+http://164.177.176.33:34040/udp/239.54.6.241:1234
+#EXTINF:-1,Bober
+http://164.177.176.33:34040/udp/239.54.6.245:1234
+#EXTINF:-1,Bridge TV
+http://164.177.176.33:34040/udp/233.221.253.54:1234
+#EXTINF:-1,ОТР
+http://164.177.176.33:34040/udp/235.73.101.9:20155
+#EXTINF:-1,TPO
+http://164.177.176.33:34040/udp/233.221.253.123:1234
+#EXTINF:-1,ЛДПР ТВ
+http://164.177.176.33:34040/udp/233.221.253.97:1234
+#EXTINF:-1,Вместе-РФ
+http://164.177.176.33:34040/udp/233.221.253.87:1234
+#EXTINF:-1,Союз
+http://164.177.176.33:34040/udp/233.221.253.98:1234
+#EXTINF:-1,Калейдоскоп ТВ
+http://164.177.176.33:34040/udp/233.221.253.100:1234
+#EXTINF:-1,OTB
+http://164.177.176.33:34040/udp/233.221.253.80:1234
+#EXTINF:-1,Schop
+http://164.177.176.33:34040/udp/233.221.253.64:1234
+#EXTINF:-1,360
+http://164.177.176.33:34040/udp/233.221.253.96:1234
+.5:10007/stolen/196k/parasite.install
