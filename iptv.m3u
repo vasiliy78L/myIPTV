@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,Победа
-http://myott.tv/stream/FBI5KR8DVL/312.m3u8
-#EXTINF:-1,Победа
-http://myott.tv/stream/M7U5IVRHMB/312.m3u8
+#EXTINF:-1,Rai 1
+http://87.7.78.107:9981/stream/channelid/451928213
 #EXTINF:-1, Футбол 1 HD UA
 http://188.35.9.11:2007
 #EXTINF:-1,Кино ТВ
@@ -1055,3 +1053,5 @@ http://92.127.199.35:1234/udp/225.54.223.65:5000
 http://218.202.220.2:5000/nn_live.ts?id=MTV
 #EXTINF:0 group-title="Познавательные",Загородный
 http://5.8.205.109:5055/play/a187
+#EXTINF:-1,Победа
+http://151.252.94.190:4022/udp/236.0.6.242:1120
