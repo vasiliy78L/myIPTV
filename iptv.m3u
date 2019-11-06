@@ -889,11 +889,10 @@ http://164.177.177.111:1212/udp/239.54.6.241:1234
 http://164.177.177.111:1212/udp/239.54.6.245:1234
 #EXTINF:-1,Bridge TV
 http://164.177.177.111:1212/udp/233.221.253.54:1234
-
 #EXTINF:-1, Travel Guide TV [FHD]
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
-#EXTINF:-1, Суспільне ТБ
-http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod-abr-lq/playlist.m3u8
+#EXTINF:-1,НТВ Сериал
+http://91.219.198.174:8000/play/a047/index.m3u8
 #EXTINF:-1, Лиманский район (Одесская обл.)
 http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
 #EXTINF:-1, Россия 1
