@@ -1362,48 +1362,6 @@ http://persik.tv/stream/8337/423517/10279.m3u8
 http://persik.tv/stream/8337/423517/10280.m3u8
 #EXTINF:-1,Беларусь 5
 http://persik.tv/stream/8337/423517/10300.m3u8
-#EXTINF:-1,Мастерская
-http://persik.tv/stream/8337/423517/10588.m3u8
-#EXTINF:-1,Авто
-http://persik.tv/stream/8337/423517/10595.m3u8
-#EXTINF:-1,Магазин рыбака
-http://persik.tv/stream/8337/423517/10602.m3u8
-#EXTINF:-1,Алиса блог
-http://persik.tv/stream/8337/423517/10603.m3u8
-#EXTINF:-1,Экстрим
-http://persik.tv/stream/8337/423517/10647.m3u8
-#EXTINF:-1,Кинозал 9
-http://persik.tv/stream/8337/423517/10692.m3u8
-#EXTINF:-1,Выживание
-http://persik.tv/stream/8337/423517/10693.m3u8
-#EXTINF:-1,Рыбаки охота
-http://persik.tv/stream/8337/423517/10694.m3u8
-#EXTINF:-1,Ремонт
-http://persik.tv/stream/8337/423517/10695.m3u8
-#EXTINF:-1,Фотограф
-http://persik.tv/stream/8337/423517/10697.m3u8
-#EXTINF:-1,Опыт
-http://persik.tv/stream/8337/423517/10698.m3u8
-#EXTINF:-1,Повар
-http://persik.tv/stream/8337/423517/10700.m3u8
-#EXTINF:-1,Природа
-http://persik.tv/stream/8337/423517/10701.m3u8
-#EXTINF:-1,Стрим игр 1
-http://persik.tv/stream/8337/423517/10702.m3u8
-#EXTINF:-1,Стрим игр 2
-http://persik.tv/stream/8337/423517/10703.m3u8
-#EXTINF:-1,MMA Time
-http://persik.tv/stream/8337/423517/10704.m3u8
-#EXTINF:-1,Шитье
-http://persik.tv/stream/8337/423517/10598.m3u8
-#EXTINF:-1,РБК
-http://persik.tv/stream/8337/423517/146.m3u8
-#EXTINF:-1,TV
-http://persik.tv/stream/8337/423517/10705.m3u8
-#EXTINF:-1,TV
-http://persik.tv/stream/8337/423517/10706.m3u8
-#EXTINF:-1,TV
-http://persik.tv/stream/8337/423517/10708.m3u8
 #EXTINF:0 group-title="Эфирные",Катюша
 http://218.202.220.2:5000/nn_live.ts?id=MTV
 #EXTINF:-1,Победа
