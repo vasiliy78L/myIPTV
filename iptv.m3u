@@ -945,99 +945,10 @@ http://188.35.9.5:10007/stolen/124n/parasite.install
 http://persik.tv/stream/8337/423517/10300.m3u8
 #EXTINF:0 group-title="Эфирные",Катюша
 http://218.202.220.2:5000/nn_live.ts?id=MTV
-#EXTINF:-1,Иллюзион +
-http://5.16.58.173:81/udp/235.10.10.29:1234
-#EXTINF:-1,DTX
-http://5.16.58.173:81/udp/235.10.10.31:1234
-#EXTINF:-1,Дикая охота HD
-http://5.16.58.173:81/udp/235.10.10.134:1234
-#EXTINF:-1,Vip Megahit HD
-http://5.16.58.173:81/udp/235.10.10.135:1234
-#EXTINF:-1,Vip Premiere HD
-http://5.16.58.173:81/udp/235.10.10.136:1234
-#EXTINF:-1,HDL HD
-http://5.16.58.173:81/udp/235.10.10.137:1234
-#EXTINF:-1,Discovery Science HD
-http://5.16.58.173:81/udp/235.10.10.140:1234
-#EXTINF:-1,Eurosport 1 HD
-http://5.16.58.173:81/udp/235.10.10.141:1234
-#EXTINF:-1,Eurosport 2 HD
-http://5.16.58.173:81/udp/235.10.10.142:1234
-#EXTINF:-1,RTG HD
-http://5.16.58.173:81/udp/235.10.10.143:1234
-#EXTINF:-1,Phoenix Info News
-http://5.16.58.173:81/udp/235.10.10.144:1234
-#EXTINF:-1,RT Doc HD
-http://5.16.58.173:81/udp/235.10.10.145:1234
-#EXTINF:-1,JiangSu TV
-http://5.16.58.173:81/udp/235.10.10.146:1234
-#EXTINF:-1,CCTV-4
-http://5.16.58.173:81/udp/235.10.10.147:1234
-#EXTINF:-1,Дом кино премиум HD
-http://5.16.58.173:81/udp/235.10.10.148:1234
-#EXTINF:-1,RTP_Int
-http://5.16.58.173:81/udp/235.10.10.149:1234
-#EXTINF:-1,Мужское кино HD
-http://5.16.58.173:81/udp/235.10.10.150:1234
-#EXTINF:-1,Paramount HD
-http://5.16.58.173:81/udp/235.10.10.151:1234
-#EXTINF:-1,Galaxy
-http://5.16.58.173:81/udp/235.10.10.152:1234
-#EXTINF:-1,JSTV
-http://5.16.58.173:81/udp/235.10.10.153:1234
-#EXTINF:-1,O!
-http://5.16.58.173:81/udp/235.10.10.154:1234
-#EXTINF:-1,Планета HD
-http://5.16.58.173:81/udp/235.10.10.155:1234
-#EXTINF:-1,Star Cinema HD
-http://5.16.58.173:81/udp/235.10.10.159:1234
-#EXTINF:-1,Paramount Comedy HD
-http://5.16.58.173:81/udp/235.10.10.160:1234
-#EXTINF:-1,BBC World News
-http://5.16.58.173:81/udp/235.10.10.161:1234
-#EXTINF:-1,КХЛ
-http://5.16.58.173:81/udp/235.10.10.162:1234
-#EXTINF:-1,Тера Студия
-http://5.16.58.173:81/udp/235.10.10.163:1234
-#EXTINF:-1,Bridge TV Classic
-http://5.16.58.173:81/udp/235.10.10.164:1234
-#EXTINF:-1,CCTV News
-http://5.16.58.173:81/udp/235.10.10.165:1234
-#EXTINF:-1,Baby TV
-http://5.16.58.173:81/udp/235.10.10.166:1234
-#EXTINF:-1,Boomerang
-http://5.16.58.173:81/udp/235.10.10.167:1234
-#EXTINF:-1,Победа HD
-http://5.16.58.173:81/udp/235.10.10.168:1234
-#EXTINF:-1,Shant Premium HD
-http://5.16.58.173:81/udp/235.10.10.169:1234
-#EXTINF:-1,Mezzo HD
-http://5.16.58.173:81/udp/235.10.10.170:1234
-#EXTINF:-1,Gulli
-http://5.16.58.173:81/udp/235.10.10.171:1234
-#EXTINF:-1,Матч! Арена HD
-http://5.16.58.173:81/udp/235.10.10.172:1234
-#EXTINF:-1,Rai 1
-http://5.16.58.173:81/udp/235.10.10.173:1234
-#EXTINF:-1,Наука 2.0
-http://5.16.58.173:81/udp/235.10.10.174:1234
-#EXTINF:-1,Museum HD
-http://5.16.58.173:81/udp/235.10.10.175:1234
-#EXTINF:-1,Jim Jam
-http://5.16.58.173:81/udp/235.10.10.176:1234
-#EXTINF:-1,Киносвидание HD
-http://5.16.58.173:81/udp/235.10.10.177:1234
-#EXTINF:-1,Звезда
-http://5.16.58.173:81/udp/235.10.10.178:1234
-#EXTINF:-1,78 канал
-http://5.16.58.173:81/udp/235.10.10.179:1234
-#EXTINF:-1,Комедия
-http://5.16.58.173:81/udp/235.10.10.180:1234
-#EXTINF:-1,Кинохит HD
-http://5.16.58.173:81/udp/235.10.10.181:1234
-#EXTINF:-1,Матч! Премьер HD
-http://5.16.58.173:81/udp/235.10.10.182:1234
-#EXTINF:-1,TiJi
-http://5.16.58.173:81/udp/235.10.10.183:1234
 #EXTINF:-1,Победа
 http://178.65.79.13:81/play/a059
+http://178.65.79.13:81/play/a059
+http://bit.do/tv-m3u
+http://zigfreed.cc.ua/iptv/zigfreed.m3u
+http://free-iptv.ru/iptv/0703tppz/pl_zabava.m3u
+http://bit.do/tv-m3u
