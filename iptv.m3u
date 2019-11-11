@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1,AMC
+http://lista.digitalgroup.me:80/101020/1234/9609
 #EXTINF:-1 group-title="Новости",1 Республиканский
 http://ott.inmart.tv:8081/18/index.m3u8
 #EXTINF:-1 group-title="Новости",1 Республиканский HD
