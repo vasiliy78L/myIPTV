@@ -13,10 +13,18 @@ http://360tv-cdn.facecast.io/360/channel2/1.m3u8
 http://strm.yandex.ru/kal/360news_supres/360news_supres0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Новости",360° Новости HD
 https://360tv-cdn.facecast.io/360/channel1/index.m3u8
-#EXTINF:-1 group-title="Новости",Earth TV
-https://strm.yandex.ru/kal/worldlife/worldlife0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Новости",Earth TV HD
-http://strm.yandex.ru/kal/worldlife/worldlife0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 player="2" vsize="" type="select" info="10001/0" delay="9395" group-title="ДЕТСКИЕ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/mult.png",Мульт
+http://109.248.236.41:4433/udp/238.1.1.29:1234
+#EXTINF:-1 player="2" vsize="" type="select" info="10001/0" delay="9395" group-title="ДЕТСКИЕ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/mult.png",Мульт
+http://109.248.236.41:4433/udp/238.1.1.29:1234
+#EXTINF:-1 player="1" vsize="" type="select" info="801/0" delay="1130" group-title="ДЕТСКИЕ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/multimanija.png",Мультимания
+http://82.193.71.93/MultimaniaLV/video.m3u8
+#EXTINF:-1 player="2" vsize="" type="select" info="10001/0" delay="8872" group-title="ДЕТСКИЕ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/multimanija.png",Мультимания
+http://109.248.236.41:4433/udp/238.1.1.26:1234
+#EXTINF:-1,RTG TV
+http://95.181.237.177:999/udp/239.191.254.91:13343
+#EXTINF:-1,Ani
+http://95.181.237.177:999/udp/239.191.254.88:13343
 #EXTINF:-1 group-title="Новости",Euronews
 http://178.124.183.13/hls/C5P6YOXJZT/bw1200000/playlist.m3u8
 #EXTINF:-1 group-title="Новости",IZ.RU
