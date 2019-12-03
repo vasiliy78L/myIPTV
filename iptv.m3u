@@ -271,8 +271,6 @@ http://178.68.219.207:82/play/a02o
 http://178.68.219.207:82/play/a02s
 #EXTINF:-1,НТВ Право
 http://178.68.219.207:82/play/a02x
-#EXTINF:-1,Охотник и рыболов
-http://178.68.219.207:82/play/a02n
 #EXTINF:-1,RTG HD
 http://178.68.219.207:82/play/a02m
 #EXTINF:-1,Мир 24
@@ -293,22 +291,14 @@ http://151.0.48.26:8080/ch0001
 http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Новости",360° HD
 http://360tv-cdn.facecast.io/360/channel2/1.m3u8
-#EXTINF:-1 group-title="Новости",360° Новости
-http://strm.yandex.ru/kal/360news_supres/360news_supres0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Новости",360° Новости HD
 https://360tv-cdn.facecast.io/360/channel1/index.m3u8
 #EXTINF:-1 player="2" vsize="" type="select" info="10001/0" delay="9395" group-title="ДЕТСКИЕ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/mult.png",Мульт
 http://109.248.236.41:4433/udp/238.1.1.29:1234
 #EXTINF:-1 player="2" vsize="" type="select" info="10001/0" delay="9395" group-title="ДЕТСКИЕ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/mult.png",Мульт
 http://109.248.236.41:4433/udp/238.1.1.29:1234
-#EXTINF:-1 player="1" vsize="" type="select" info="801/0" delay="1130" group-title="ДЕТСКИЕ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/multimanija.png",Мультимания
-http://82.193.71.93/MultimaniaLV/video.m3u8
 #EXTINF:-1 player="2" vsize="" type="select" info="10001/0" delay="8872" group-title="ДЕТСКИЕ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/multimanija.png",Мультимания
 http://109.248.236.41:4433/udp/238.1.1.26:1234
-#EXTINF:-1,RTG TV
-http://95.181.237.177:999/udp/239.191.254.91:13343
-#EXTINF:-1,Ani
-http://95.181.237.177:999/udp/239.191.254.88:13343
 #EXTINF:-1 group-title="Новости",Euronews
 http://178.124.183.13/hls/C5P6YOXJZT/bw1200000/playlist.m3u8
 #EXTINF:-1 group-title="Новости",IZ.RU
@@ -321,12 +311,6 @@ http://46.180.99.15:81/udp/239.255.42.116:1234
 http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
 #EXTINF:-1 group-title="Новости",RT Док
 http://151.0.48.26:8080/ch0010
-#EXTINF:-1 group-title="Новости",RT Док HD
-http://uiptv.do.am/1ufc/300663722/playlist.m3u8
-#EXTINF:-1 group-title="Новости",Беларусь 1
-http://178.124.183.13/hls/M52YG9EVYD/bw1200000/playlist.m3u8
-#EXTINF:-1 group-title="Новости",Беларусь 1 HD
-http://178.124.183.13:80/hls/M52YG9EVYD/bw5000000/playlist.m3u8
 #EXTINF:-1 group-title="Новости",Беларусь 2
 http://178.124.183.13/hls/GCKYZGGFEJ/bw1200000/playlist.m3u8
 #EXTINF:-1 group-title="Новости",Беларусь 2 HD
@@ -341,30 +325,14 @@ http://95.46.208.8:26258/belarus4
 http://178.124.183.5/hls/CH_BELARUS4VIT/variant.m3u8
 #EXTINF:-1 group-title="Новости",Беларусь 4 Могилев
 http://178.124.183.5/hls/CH_BELARUS4MOG/variant.m3u8
-#EXTINF:-1 group-title="Новости",Беларусь 4 Могилев HD
-http://86.57.225.238:8090
-#EXTINF:-1 group-title="Новости",Беларусь 24
-https://stream.hoster.by/belarus24hd/livehd/playlist.m3u8
-#EXTINF:-1 group-title="Новости",Беларусь 24 HD
-https://nimble01edge01.hoster.by/belarus24hd/livehd/chunks.m3u8
 #EXTINF:-1 group-title="Новости",Вести ФМ
 http://89.249.133.183:4022/udp/235.19.101.101:1234
 #EXTINF:-1 group-title="Новости",Вместе РФ
 http://serv25.vintera.tv:8081/vmesterf/vmesterf/playlist.m3u8
-#EXTINF:-1 group-title="Новости",Вместе РФ HD
-http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Новости",Говорит Москва
 http://video.govoritmoskva.ru:8080/rufm/index.m3u8
-#EXTINF:-1 group-title="Новости",Дождь
-http://46.8.46.4:8000/udp/239.254.2.176:1234
-#EXTINF:-1 group-title="Новости",Дождь HD
-http://194.28.152.59:81/udp/225.0.56.65:1234
-#EXTINF:-1 group-title="Новости",Евроновости
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1 group-title="Новости",Кавказ 24
 http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
-#EXTINF:-1 group-title="Новости",Красная Линия
-http://176.101.224.21:8080/udp/239.195.41.2:1234
 #EXTINF:-1 group-title="Новости",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
 #EXTINF:-1 group-title="Новости",ЛДПР ТВ HD
@@ -395,8 +363,6 @@ http://live-meteotv.cdnvideo.ru/meteotv/meteotv/playlist.m3u8
 http://182.73.122.74:10005/bysid/414
 #EXTINF:-1 group-title="Новости",Первый канал HD
 http://stream-nexttv.comboplayer.ru/hlsl/1/First_HD/04.m3u8
-#EXTINF:-1 group-title="Новости",Первый канал "Евразия"
-http://sc.id-tv.kz/1KanalEvraziya_36_37.m3u8
 #EXTINF:-1 group-title="Новости",Первый канал СНГ
 http://109.248.236.41:4433/udp/238.1.1.140:1234
 #EXTINF:-1 group-title="Новости",Первый канал (+2)
@@ -419,8 +385,6 @@ http://live-ekbrbc.cdnvideo.ru/ekbrbc/ekbrbc/playlist.m3u8
 http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Новости",РЖД ТВ HD
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="Новости",РТР Беларусь
-http://178.124.183.13/hls/7MQSYYGHFE/bw1200000/playlist.m3u8
 #EXTINF:-1 group-title="Новости",РТР Планета
 http://212.12.194.10/planeta/live.m3u8
 #EXTINF:-1 group-title="Новости",РТР Россия
