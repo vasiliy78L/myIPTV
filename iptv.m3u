@@ -4377,6 +4377,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/bw2000000/variant.m3u8?version=
 #EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр (+4)
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,СТРАХ HD
-http://s2.myowntv.org/hls/what.m3u8
+#EXTINF:-1,СТРАШНОЕ HD
+http://94.241.54.218:8888/udp/225.33.53.32:5000
+#EXTINF:-1,VIP Serial HD
+http://94.241.54.218:8888/udp/225.33.53.33:5000
+#EXTINF:-1,Живая природа HD
+http://176.51.81.190:1234/udp/225.54.223.67:5000
 
