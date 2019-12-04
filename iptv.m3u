@@ -1,4 +1,8 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 tvch-id="1279" group-title="© ProxyBot",ПОБЕДА-1279
+http://212.19.19.185:999/udp/239.191.254.124:13343
+#EXTINF:-1 tvch-id="39253" group-title="ПОЗНАВАТЕЛЬНЫЕ",MUSEUM HD -39253
+http://109.167.162.166:4022/udp/233.99.64.162:1234
 #EXTINF:-1,AMC
 http://lista.digitalgroup.me:80/101020/1234/9609
 #EXTINF:-1 group-title="Новости",1 Республиканский
