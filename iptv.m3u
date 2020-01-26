@@ -3711,5 +3711,4 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/bw2000000/variant.m3u8?version=
 #EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр (+4)
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvch-id="32189" group-title="ХОББИ/ДОСУГ",ТЕАТР-32189
-http://78.109.133.13:81/udp/239.1.21.18:1234
+
