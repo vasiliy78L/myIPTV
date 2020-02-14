@@ -3734,4 +3734,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/bw2000000/variant.m3u8?version=
 #EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр (+4)
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/bw2000000/variant.m3u8?version=2
-
+EXTINF:-1,Победа
+http://89.107.37.239:81/udp/239.195.6.249:1234
+#EXTINF:-1,RTG TV
+http://91.220.250.69:81/udp/230.1.1.166:1234
+#EXTINF:-1,Museum HD
+http://217.12.77.64:81/udp/235.10.10.175:1234
+#EXTINF:-1,Nat Geo Wild HD
+http://79.133.120.150:81/udp/239.191.254.235:15283
