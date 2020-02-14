@@ -3,8 +3,21 @@
 https://strm.yandex.ru/kal/tvrain/tvrain0.m3u8
 #EXTINF:-1,Дождь
 https://strm.yandex.ru/kal/tvrain/tvrain0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1,CGTN Русский
+http://live.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1,Naroddip
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hls.goodgame.ru/hls/33226.m3u8
+#EXTINF:-1,Buy Home TV
+http://hls-edge.cdn.buy-home.tv/bhtvlive/_definst_/live/playlist.m3u8
+#EXTINF:-1,Ocean TV
+http://91.192.168.242:9091
+#EXTINF:0,Travel HD BG
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 #EXTINF:-1 group-title="Новости",1 Республиканский
 http://ott.inmart.tv:8081/18/index.m3u8
+EXTINF:0,Univer TV HD
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Новости",360°
 http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Новости",Euronews
