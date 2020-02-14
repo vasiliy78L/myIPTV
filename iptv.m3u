@@ -26,8 +26,6 @@ EXTINF:0,Univer TV HD
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Новости",360°
 http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Новости",Euronews
-http://178.124.183.13/hls/C5P6YOXJZT/bw1200000/playlist.m3u8
 #EXTINF:-1 group-title="Новости",IZ.RU
 http://hls-igi.cdnvideo.ru:80/igi/igi1_hq/chunklist.m3u8
 #EXTINF:-1 group-title="Новости",IZ.RU HD
@@ -62,14 +60,8 @@ http://185.114.136.25/oplot-tv
 http://serv25.vintera.tv:8081/parad/patriot/playlist.m3u8
 #EXTINF:-1 group-title="Новости",Первый Метео
 http://live-meteotv.cdnvideo.ru/meteotv/meteotv/playlist.m3u8
-#EXTINF:-1 group-title="Новости",Первый канал HD
-http://stream-nexttv.comboplayer.ru/hlsl/1/First_HD/04.m3u8
-#EXTINF:-1 group-title="Новости",Первый канал (+2)
-http://85.208.223.249:7088/udp/239.192.0.101:8000
 #EXTINF:-1 group-title="Новости",Погода Санкт-Петербург
 https://strm.yandex.ru/kal/weather_saint_petersburg/weather_saint_petersburg0.m3u8
-#EXTINF:-1 group-title="Новости",Про Бизнес
-http://37.145.105.223:34040/udp/233.33.210.89:5050
 #EXTINF:-1 group-title="Новости",РБК
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 #EXTINF:-1 group-title="Новости",РБК (ЕКБ)
@@ -78,10 +70,6 @@ http://live-ekbrbc.cdnvideo.ru/ekbrbc/ekbrbc/playlist.m3u8
 http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Новости",РЖД ТВ HD
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="Новости",Россия 1 HD
-http://stream-nexttv.comboplayer.ru/hlsl/1/Rossiya_HD/04.m3u8
-#EXTINF:-1 group-title="Новости",Россия 1 (+2)
-http://146.158.99.186:81/udp/239.72.6.220:1234
 #EXTINF:-1 group-title="Новости",Россия 1 (+6)
 http://87.226.185.237:8080/hls/r1-chita_576p.m3u8
 #EXTINF:-1 group-title="Новости",Россия 1 (Кабардино-Балкария)
@@ -3734,7 +3722,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/bw2000000/variant.m3u8?version=
 #EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр (+4)
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/bw2000000/variant.m3u8?version=2
-EXTINF:-1,Победа
+#EXTINF:-1,Победа
 http://89.107.37.239:81/udp/239.195.6.249:1234
 #EXTINF:-1,RTG TV
 http://91.220.250.69:81/udp/230.1.1.166:1234
