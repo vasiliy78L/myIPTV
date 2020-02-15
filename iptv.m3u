@@ -11,9 +11,6 @@ https://strm.yandex.ru/kal/tvrain/tvrain0.m3u8
 https://strm.yandex.ru/kal/tvrain/tvrain0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1,CGTN Русский
 http://live.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1,Naroddip
-#EXTVLCOPT:http-user-agent=smartlabs
-http://hls.goodgame.ru/hls/33226.m3u8
 #EXTINF:-1,Buy Home TV
 http://hls-edge.cdn.buy-home.tv/bhtvlive/_definst_/live/playlist.m3u8
 #EXTINF:-1,Ocean TV
@@ -99,8 +96,6 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24hca_lv3_aos
 http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News",ABC News (USA)
 https://markenfunk.tv/plive/chunks.php
-#EXTINF:-1 group-title="News",ACTV
-http://granicusliveus12-a.akamaihd.net/azleg/G0247_012/chunklist.m3u8
 #EXTINF:-1 group-title="News",Akit TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 group-title="News",AL Hurra
@@ -123,8 +118,6 @@ http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
 http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="News",Atameken Business
 http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
-#EXTINF:-1 group-title="News",BBC NEWS
-https://streamingserver003.viewtvgroup.com/kapanglocal-playout-master/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News",BBC World News (EN)
 http://51.52.156.22:8888/http/004
 #EXTINF:-1 group-title="News",BFM Paris
