@@ -3809,3 +3809,7 @@ http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_NTV/variant.m3u8?
 #EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (+7)
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,КИНОУЖАС HD
+http://92.127.164.90:1234/udp/225.54.43.126:5000
+#EXTINF:-1,Фантастика HD
+http://persik.by/stream/234/408000/10715.m3u8
