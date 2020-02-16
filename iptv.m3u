@@ -1,30 +1,4 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,Камера HD
-http://193.233.170.45:81/udp/239.191.255.30:13343
-#EXTINF:-1,РБК
-http://193.233.170.45:81/udp/239.191.254.3:13343
-#EXTINF:-1,Россия 24
-http://193.233.170.45:81/udp/239.191.254.246:13343
-#EXTINF:-1,Russia Today
-http://193.233.170.45:81/udp/239.191.254.106:13343
-#EXTINF:-1,EuroNews
-http://193.233.170.45:81/udp/239.191.254.137:13343
-#EXTINF:-1,DW
-http://193.233.170.45:81/udp/239.191.254.89:13343
-#EXTINF:-1,Россия 24
-http://193.233.170.45:81/udp/239.191.254.154:13343
-#EXTINF:-1,Москва 24
-http://193.233.170.45:81/udp/239.191.254.166:13343
-#EXTINF:-1,Мир 24
-http://193.233.170.45:81/udp/239.191.254.162:13343
-#EXTINF:-1,TV5 Monde
-http://193.233.170.45:81/udp/239.191.254.178:13343
-#EXTINF:-1,Mix TV
-http://193.233.170.45:81/udp/239.191.254.177:13343
-#EXTINF:-1,France 24
-http://193.233.170.45:81/udp/239.191.254.193:13343
-#EXTINF:-1,Крым 24
-http://193.233.170.45:81/udp/239.191.254.182:13343
 #EXTINF:-1, AIVA
 https://strm.yandex.ru/kal/aiva/aiva0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1, E TV
@@ -41,6 +15,95 @@ http://live.cgtn.com/1000r/prog_index.m3u8
 http://hls-edge.cdn.buy-home.tv/bhtvlive/_definst_/live/playlist.m3u8
 #EXTINF:-1,Ocean TV
 http://91.192.168.242:9091
+#EXTINF:-1,Дом Кино
+http://178.163.68.178:4022/udp/234.0.0.219:2000
+#EXTINF:-1,В мире животных HD
+http://178.163.68.178:4022/udp/234.0.0.97:2000
+#EXTINF:-1,Охотник и Рыболов HD
+http://178.163.68.178:4022/udp/234.0.0.98:2000
+#EXTINF:-1,Боец
+http://178.163.68.178:4022/udp/234.0.0.6:2000
+#EXTINF:-1,Иллюзион+
+http://178.163.68.178:4022/udp/234.0.0.175:2000
+#EXTINF:-1,Еврокино
+http://178.163.68.178:4022/udp/234.0.0.176:2000
+#EXTINF:-1,Родное Кино
+http://178.163.68.178:4022/udp/234.0.0.177:2000
+#EXTINF:-1,Русский Иллюзион
+http://178.163.68.178:4022/udp/234.0.0.178:2000
+#EXTINF:-1,Bridge TV Русский Хит
+http://178.163.68.178:4022/udp/234.0.0.179:2000
+#EXTINF:-1,Мужское кино
+http://178.163.68.178:4022/udp/234.0.0.213:2000
+#EXTINF:-1,Amedia Premium
+http://178.163.68.178:4022/udp/234.0.0.209:2000
+#EXTINF:-1,Мультимания
+http://178.163.68.178:4022/udp/234.0.0.210:2000
+#EXTINF:-1,Satellite TV
+http://178.163.68.178:4022/udp/234.0.0.211:2000
+#EXTINF:-1,Усадьба
+http://178.163.68.178:4022/udp/234.0.0.220:2000
+#EXTINF:-1,Здоровое ТВ
+http://178.163.68.178:4022/udp/234.0.0.221:2000
+#EXTINF:-1,Киномикс
+http://178.163.68.178:4022/udp/234.0.0.222:2000
+#EXTINF:-1,VH1 Classic
+http://178.163.68.178:4022/udp/234.0.0.223:2000
+#EXTINF:-1,Русский Роман
+http://178.163.68.178:4022/udp/234.0.0.224:2000
+#EXTINF:-1,Время
+http://178.163.68.178:4022/udp/234.0.0.225:2000
+#EXTINF:-1,Наука
+http://178.163.68.178:4022/udp/234.0.0.226:2000
+#EXTINF:-1,Авто 24
+http://178.163.68.178:4022/udp/234.0.0.227:2000
+#EXTINF:-1,Моя Планета
+http://178.163.68.178:4022/udp/234.0.0.228:2000
+#EXTINF:-1,НТВ Хит
+http://178.163.68.178:4022/udp/234.0.0.236:2000
+#EXTINF:-1,Драйв
+http://178.163.68.178:4022/udp/234.0.0.245:2000
+#EXTINF:-1,Сарафан
+http://178.163.68.178:4022/udp/234.0.0.246:2000
+#EXTINF:-1,24 Техно
+http://178.163.68.178:4022/udp/234.0.0.247:2000
+#EXTINF:-1,Euronews
+http://178.163.68.178:4022/udp/234.0.0.248:2000
+#EXTINF:-1,Телекафе
+http://178.163.68.178:4022/udp/234.0.0.249:2000
+#EXTINF:-1,Русский Бестселлер
+http://178.163.68.178:4022/udp/234.0.0.250:2000
+#EXTINF:-1,TiJi
+http://178.163.68.178:4022/udp/234.0.0.252:2000
+#EXTINF:-1,Кино ТВ
+http://178.163.34.122:81/udp/234.0.0.154:2000
+#EXTINF:-1,Amedia1
+http://178.163.34.122:81/udp/234.0.0.155:2000
+#EXTINF:-1,Amedia Hit
+http://178.163.34.122:81/udp/234.0.0.169:2000
+#EXTINF:-1,SD Rex
+http://178.163.34.122:81/udp/234.0.0.173:2000
+#EXTINF:-1,Музыка Первого
+http://178.163.34.122:81/udp/234.0.0.182:2000
+#EXTINF:-1,Europa +
+http://178.163.34.122:81/udp/234.0.0.183:2000
+#EXTINF:-1,Fox
+http://178.163.34.122:81/udp/234.0.0.184:2000
+#EXTINF:-1,Совершенно Секретно
+http://178.163.34.122:81/udp/234.0.0.185:2000
+#EXTINF:-1,21 Век
+http://178.163.34.122:81/udp/234.0.0.187:2000
+#EXTINF:-1,Шансон
+http://178.163.34.122:81/udp/234.0.0.189:2000
+#EXTINF:-1,Ностальгия
+http://178.163.34.122:81/udp/234.0.0.190:2000
+#EXTINF:-1,MTV Rocks
+http://178.163.34.122:81/udp/234.0.0.193:2000
+#EXTINF:-1,MTV Hits
+http://178.163.34.122:81/udp/234.0.0.194:2000
+#EXTINF:-1,RTG TV
+http://31.130.20.20:81/udp/239.1.10.23:1234
+
 #EXTINF:0,Travel HD BG
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 #EXTINF:-1 group-title="Новости",1 Республиканский
@@ -3624,21 +3687,6 @@ http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_MIR/variant.m3u8?
 #EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/mir.png",Мир (+7)
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (+1)
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8?version=2
-#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (+2)
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8?version=2
-#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (+4)
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_NTV/variant.m3u8?version=2
-#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (+7)
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/otr_ru.png",ОТР
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/bw2000000/variant.m3u8?version=2
@@ -3744,4 +3792,20 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/bw2000000/variant.m3u8?version=
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Советское кино
 http://62.122.92.220:81/udp/239.1.9.38:1234
-
+#EXTINF:-1,Дом Кино
+http://178.163.68.178:4022/udp/234.0.0.219:2000
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (+1)
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8?version=2
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (+2)
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8?version=2
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (+4)
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_NTV/variant.m3u8?version=2
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (+7)
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/bw2000000/variant.m3u8?version=2
