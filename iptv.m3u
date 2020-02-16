@@ -3966,22 +3966,10 @@ http://188.35.9.11:2004
 http://188.35.9.11:2013
 #EXTINF:-1, Travel Channel
 http://188.35.9.11:21031/udp/038m
-#EXTINF:-1, EU music [FHD]
-http://188.35.9.11:21031/udp/043m
 #EXTINF:-1, FilmBox [SD]
 http://188.35.9.11:21081/udp/154w
 #EXTINF:-1, СТС [SD]
 http://188.35.9.11:21101/udp/131p
-#EXTINF:-1, Ocean TV [R]
-http://188.35.9.5:10007/stolen/122v/parasite.install
-#EXTINF:-1, Матч! Страна
-http://188.35.9.5:10007/stolen/124n/parasite.install
-#EXTINF:-1, Русский Роман [SD]
-http://188.35.9.5:10007/stolen/127k/parasite.install
-#EXTINF:-1, НТВ HD [FHD]
-http://188.35.9.5:10007/stolen/141n/parasite.install
-#EXTINF:-1, Конный Мир [FHD]
-http://188.35.9.5:10007/stolen/162z/parasite.install
 #EXTINF:-1, Астрахань 24 [SD]
 http://188.35.9.5:10007/stolen/167n/parasite.install
 #EXTINF:-1, Ani [SD]
@@ -4010,8 +3998,6 @@ http://188.35.9.5:10020/stolen/484c/hot.dll
 http://188.35.9.5:10020/stolen/486b/hot.dll
 #EXTINF:-1, Nat Geo Wild (RU)
 http://188.35.9.5:10020/stolen/487n/hot.dll
-#EXTINF:-1, History [FHD]
-http://188.35.9.9:21121/udp/128c
 #EXTINF:-1, TV-5 tva.org.ua
 http://213.133.166.227/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
 #EXTINF:-1, ТВА Черновцы
@@ -4020,33 +4006,16 @@ http://213.133.166.227/tva.ua_live/_definst_/livestream/playlist.m3u8
 http://213.174.8.7:11111/index.m3u8
 #EXTINF:-1, TV1000 Action [SD]
 http://213.174.8.7:22222/index.m3u8
-#EXTINF:-1, 21 канал
-http://213.174.8.7:8000/play/1/index.m3u8
-#EXTINF:-1, (UA) Da Vinci Украина
-http://213.174.8.7:8000/play/21/index.m3u8
 #EXTINF:-1, TV1000 Action [SD]
 http://213.174.8.7:8000/play/22/index.m3u8
-#EXTINF:-1, Discovery Channel [SD]
-http://213.174.8.7:8000/play/24/index.m3u8
-#EXTINF:-1, Niki Junior
-http://213.174.8.7:9100/index.m3u8
 #EXTINF:-1, Niki Junior
 http://213.174.8.7:9100/index.m3u8
 #EXTINF:-1, Волгоград 1 [SD]
 http://213.234.30.38/Live/1000k/stream.m3u8
 #EXTINF:-1, Москва 24 [SD]
 http://217.117.113.24:4022/udp/230.3.4.51:5678
-#EXTINF:-1, Dorcel TV HD
-http://213.231.131.198:22666/udp/239.10.10.155:5000
-#EXTINF:-1, Redlight HD
-http://85.12.193.140:81/udp/239.99.17.251:1234
 #EXTINF:-1, Беларусь 4 (Витебск)
 http://95.46.208.8:26258/belarus4
-#EXTINF:-1, 5 канал [SD]
-http://api.tv.ipnet.ua:80/api/v1/manifest/1293299450.m3u8
-#EXTINF:-1, Россия К [SD]
-http://api.tv.ipnet.ua:80/api/v1/manifest/1311962540.m3u8
-udp/233.12.144.84:5050
 #EXTINF:-1, Travel Guide TV [FHD]
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:-1, Лиманский район (Одесская обл.)
@@ -4057,44 +4026,14 @@ http://chgtrk.ru/pl/stream/hls/R1_360p/index.m3u8
 http://chgtrk.ru/pl/stream/hls/R1_720p/index.m3u8
 #EXTINF:-1, Россия 24 (Чувашия)
 http://chgtrk.ru/pl/stream/hls/R24_360p/index.m3u8
-#EXTINF:-1, Eurosport 1
-http://109.248.236.41:4433/udp/238.1.1.114:1234
-#EXTINF:-1, Eurosport 2
-http://109.248.236.41:4433/udp/238.1.1.115:1234
-#EXTINF:-1, QazSport HD
-http://109.248.236.41:4433/udp/238.1.1.116:1234
-#EXTINF:-1, SETANTA КАЗАХСТАН
-http://109.248.236.41:4433/udp/238.1.1.140:1234
-#EXTINF:-1, SETANTA
-http://109.248.236.41:4433/udp/238.1.1.141:1234
-#EXTINF:-1, КХЛ
-http://109.248.236.41:4433/udp/238.1.1.36:1234
-#EXTINF:-1, Матч! Планета
-http://109.248.236.41:4433/udp/238.1.1.39:1234
-#EXTINF:-1, Setanta Sports+
-http://109.248.236.41:4433/udp/238.1.1.61:1234
 #EXTINF:-1, NEWTV Super sports (Китайский) [FHD]
 http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1, Flow Sports 1 720 (Английский) [HD]
 http://161.0.157.9/PLTV/88888888/224/3221226899/01.m3u8
-#EXTINF:-1, Матч! [R]
-http://176.101.224.21:8080/udp/239.195.32.3:1234
-#EXTINF:-1, Setanta Sports+ [FHD]
-http://178.124.183.13/hls/5T3FNFICQ4/bw5000000/playlist.m3u8?version=2
-#EXTINF:-1, Матч! Премьер [R]
-http://182.73.122.74:10001/bysid/706
 #EXTINF:-1, Матч! Премьер
 http://188.191.36.106:8080/hls/nashfutbol.m3u8
-#EXTINF:-1, Матч! Футбол 2 [R]
-http://188.35.9.11:2026
 #EXTINF:-1, Матч! Страна
 http://188.35.9.5:10007/stolen/124n/parasite.install
-#EXTINF:-1,Беларусь 5
-http://persik.tv/stream/8337/423517/10300.m3u8
-#EXTINF:0 group-title="Эфирные",Катюша
-http://218.202.220.2:5000/nn_live.ts?id=MTV
-#EXTINF:0 group-title="https://vk.com/free_iptv_ru",https://vk.com/free_iptv_ru
-http://free-iptv.ru/iptv/error/logo_pl.png
 #EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/icn/disney_channel.png",Disney Channel
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
@@ -4308,9 +4247,6 @@ http://rt-ural-krg-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_KURRU_URAL_KRG/varian
 #EXTINF:-1 group-title="Региональные",UGRA Travel (Сургут)
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://rt-ural-sur-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8?version=2
-#EXTINF:-1 group-title="Региональные",АТВ (Ставрополь)
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://rt-sth-stavr-htlive-lb.cdn.ngenix.net/hls/CH_R01_ATV/variant.m3u8?version=2
 #EXTINF:-1 group-title="Региональные",АТВ-медиа (Улан-удэ)
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://rt-sib-uude-htlive-lb.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8?version=2
@@ -4683,16 +4619,6 @@ http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_BUL_5TV/variant.m3u8?
 #EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/5kanal-ru.png",Пятый канал (+7)
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ (+2)
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Центральные" tvg-log
-#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ (+7)
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Центральные" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
@@ -4752,6 +4678,16 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/bw2000000/variant.m3u8?version=
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Советское кино
 http://62.122.92.220:81/udp/239.1.9.38:1234
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ (+2)
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Центральные" tvg-log
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ (+7)
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
