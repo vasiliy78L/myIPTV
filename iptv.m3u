@@ -3060,47 +3060,11 @@ http://182.73.122.74:10004/bysid/1105
 http://182.73.122.74:10004/bysid/1112
 #EXTINF:-1, Investigation Discovery [SD]
 http://182.73.122.74:10004/bysid/1114
-#EXTINF:-1, Мульт и музыка [SD]
-http://182.73.122.74:10005/bysid/401
-#EXTINF:-1, 360 [SD]
-http://182.73.122.74:10005/bysid/404
-#EXTINF:-1, DTX
-http://182.73.122.74:10005/bysid/407
-#EXTINF:-1, ACB TV [SD]
-http://182.73.122.74:10005/bysid/408
-#EXTINF:-1, 1 CLASSIC [SD]
-http://182.73.122.74:10005/bysid/409
-#EXTINF:-1, Сарафан ТВ
-http://182.73.122.74:10005/bysid/411
-#EXTINF:-1, MTV Hits [SD]
-http://182.73.122.74:10005/bysid/412
-#EXTINF:-1, ТНТ
-http://182.73.122.74:10005/bysid/413
-#EXTINF:-1, Первый канал [SD]
-http://182.73.122.74:10005/bysid/414
-#EXTINF:-1, Русский Роман [SD]
-http://182.73.122.74:10005/bysid/415
-#EXTINF:-1, Русский Детектив [SD]
-http://182.73.122.74:10005/bysid/416
-#EXTINF:-1, Телекафе
-http://182.73.122.74:10005/bysid/417
-#EXTINF:-1, 418 [SD]
-http://182.73.122.74:10005/bysid/418
-#EXTINF:-1, Техно 24 [SD]
-http://182.73.122.74:10005/bysid/419
-#EXTINF:-1, Русский Бестселлер [SD]
-http://182.73.122.74:10005/bysid/420
-#EXTINF:-1, 2x2 [SD]
-http://188.242.199.174:81/udp/239.239.3.3:5239
-#EXTINF:-1, ICTV
-http://188.35.9.11:11051/j
-#EXTINF:-1, 1+1
-http://188.35.9.11:2001
 #EXTINF:-1, Россия 1 [FHD]
 http://188.35.9.11:2004
 #EXTINF:-1, VIP Premiere [FHD]
 http://188.35.9.11:2013
-#EXTINF:-1, Travel Channel
+#EXTINF:-1, Travel Channel#EXTINF:-1, Мульт и музыка [SD]
 http://188.35.9.11:21031/udp/038m
 #EXTINF:-1, FilmBox [SD]
 http://188.35.9.11:21081/udp/154w
