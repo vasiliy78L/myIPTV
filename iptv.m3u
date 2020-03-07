@@ -2367,5 +2367,3 @@ http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_NTV/variant.m3u8?
 #EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (+7)
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvch-id="1279" group-title="© ProxyBot",ПОБЕДА-1279
-http://95.181.235.14:999/udp/239.191.254.124:13343 
