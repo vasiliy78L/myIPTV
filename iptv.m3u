@@ -838,8 +838,8 @@ http://109.248.236.41:4433/udp/238.1.1.80:1234
 http://212.8.233.150:8081/kazahtv/stream_kz/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Kazakh TV HD
 https://kazakhtvuz.ultraiptv.com/live_uz/playlist2/index.m3u8
-#EXTINF:-1 group-title="Региональные",Kazakh TV (KZ)
-http://212.8.233.150:8081/kazahtv/stream_ru/playlist.m3u8
+#EXTINF:-1  group-title="Фильмовые",Киноужас
+http://37.235.158.42:81/udp/225.50.64.63:1234
 #EXTINF:-1 group-title="Региональные",N4
 http://tv.vodafoneplay.is/n4/02.m3u8
 #EXTINF:-1 group-title="Региональные",N4 HD
