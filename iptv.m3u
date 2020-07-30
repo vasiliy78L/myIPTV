@@ -1,24 +1,14 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Viasat Nature
-http://live-ng-01.more.tv/hls/Viasat_Nature_HD/master.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-logo="" group-title="Undefined",Nano,Nano TV
 http://nano.teleservice.su:8080/hls/nano.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvstok.work/images/channels/2019-05-08-at-08.20.21.jpeg", РОССИЯ 1 HD
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Undefined",Viasat Nature
+http://live-ng-01.more.tv/hls/Viasat_Nature_HD/master.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvstok.work/images/channels/ros24.jpg", РОССИЯ 24 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvstok.work/images/channels/original.jpg", Известия ТВ HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvstok.work/images/channels/", Euronews Russian
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvstok.work/images/channels/zvezda_telekanal.png", Звезда HD
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvstok.work/images/channels/tv_centr.png", ТВ Центр
-http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvstok.work/images/channels/mir.png", Мир HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvstok.work/images/channels/mir24.png", Мир 24 HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvstok.work/images/channels/1583111111.jpg", Первый Тульский HD
 http://5.164.24.83/tula/1tv_hi/index.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvstok.work/images/channels/01zx10.jpg", Мособр ТВ HD
