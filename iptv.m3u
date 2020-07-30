@@ -1,8 +1,10 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 tvg-country="RU" tvg-logo="" group-title="Undefined",Nano,Nano TV
 http://nano.teleservice.su:8080/hls/nano.m3u8
-#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Undefined",Viasat Nature
-http://91.208.115.170:25461/A24xdDQA4V8Oizz/8LGPf5cMeZE77Xy/46311
+#EXTINF:-1 tvch-id="3113" group-title="ПОЗНАВАТЕЛЬНЫЕ",VIASAT NATURE-3113
+http://37.193.187.48:81/udp/239.1.21.36:1234
+#EXTINF:-1 tvch-id="7168" group-title="ПОЗНАВАТЕЛЬНЫЕ",VIASAT NATURE-7168
+http://109.171.45.109:81/udp/239.54.5.90:1234
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvstok.work/images/channels/ros24.jpg", РОССИЯ 24 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvstok.work/images/channels/original.jpg", Известия ТВ HD
