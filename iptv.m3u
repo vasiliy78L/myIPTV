@@ -7,8 +7,6 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvstok.work/images/channels/", Euronews Russian
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvstok.work/images/channels/dozhd.png", Дождь
-https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvstok.work/images/channels/zvezda_telekanal.png", Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvstok.work/images/channels/tv_centr.png", ТВ Центр
@@ -17,17 +15,13 @@ http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvstok.work/images/channels/mir24.png", Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvstok.work/images/channels/wfclarge.jpg", World Fashion Россия HD
-http://wfc.bonus-tv.ru/cdn/wfcrus/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvstok.work/images/channels/wfclarge.jpg", World Fashion International HD
-http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvstok.work/images/channels/1583111111.jpg", Первый Тульский HD
 http://5.164.24.83/tula/1tv_hi/index.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvstok.work/images/channels/01zx10.jpg", Мособр ТВ HD
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvstok.work/images/channels/111111122223333.jpeg", Башкортостан 24 HD
 http://live.gtrk.tv/hls/b24-hls.m3u8
-#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Nano,Nano TV
+#EXTINF:-1 tvg-country="RU" tvg-logo="" group-title="Undefined",Nano,Nano TV
 http://nano.teleservice.su:8080/hls/nano.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvstok.work/images/channels/logoTi.jpg", Terra Incognita HD
 http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/terra/terra0_169_720p.json/index-v1-a1.m3u8
