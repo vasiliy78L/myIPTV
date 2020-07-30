@@ -27,8 +27,8 @@ http://5.164.24.83/tula/1tv_hi/index.m3u8
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvstok.work/images/channels/111111122223333.jpeg", Башкортостан 24 HD
 http://live.gtrk.tv/hls/b24-hls.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvstok.work/images/channels/NANO_TV.png", NANO HD
-http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Nano,Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvstok.work/images/channels/logoTi.jpg", Terra Incognita HD
 http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/terra/terra0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvstok.work/images/channels/hdl.png", HDL HD
