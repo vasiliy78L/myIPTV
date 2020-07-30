@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-country="RU" tvg-logo="" group-title="Undefined",Nano,Nano TV
 http://nano.teleservice.su:8080/hls/nano.m3u8
 #EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Undefined",Viasat Nature
-http://live-ng-01.more.tv/hls/Viasat_Nature_HD/master.m3u8
+http://91.208.115.170:25461/A24xdDQA4V8Oizz/8LGPf5cMeZE77Xy/46311
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvstok.work/images/channels/ros24.jpg", РОССИЯ 24 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvstok.work/images/channels/original.jpg", Известия ТВ HD
