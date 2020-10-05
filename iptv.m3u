@@ -80,34 +80,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?versio
 http://188.35.9.18:16050/udp/238.0.16.1:69000
 #EXTINF:-1 group-title="Кино" tvg-logo="null", ULTO
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
-#EXTINF:-1 group-title="4K" tvg-logo="null", Ultra HD Cinema 4K UHD
-###http://176.9.125.12:4000/play/a00a/index.m3u8?auth=free:free
-#EXTINF:-1 group-title="4K" tvg-logo="null", Ultra REX 4K UHD
-###http://176.9.125.12:4000/play/a00b/index.m3u8?auth=free:free
-#EXTINF:-1 group-title="Кино" tvg-logo="null", ФАНТАСТИКА HD
-###http://176.9.125.12:4000/play/a014/index.m3u8?auth=free:free
-#EXTINF:-1 group-title="Кино" tvg-logo="null", СТРАШНОЕ HD
-http://myott.tv/stream/7SGN8IDIRD/226.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="null", СТРАХ HD
-###http://176.9.125.12:4000/play/a013/index.m3u8?auth=free:free
-#EXTINF:-1 group-title="Кино" tvg-logo="null", AKUDJI TV HD
-http://hls.goodgame.ru:8080/hls/5346.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="null", FAN HD
-http://hls.goodgame.ru:8080/hls/157239.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="null", FILM TV HD
-http://hls.goodgame.ru:8080/hls/165462.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="null", HE/format HD
-http://hls.goodgame.ru:8080/hls/64556.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="null", PznStreams HD
-http://hls.goodgame.ru:8080/hls/12949.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="null", Кинозал 1 HD
-http://hls.goodgame.ru:8080/hls/54516.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="null", Твое ТВ HD (Кинозал)
-http://hls.goodgame.ru:8080/hls/173652.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvstok.work/images/channels/GjBl2W9npsg.jpg", Супер HD
-http://85.112.114.11:8086/udp/238.2.49.249:1234
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvstok.work/images/channels/pyatnitsa.png", Пятница HD
-https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="null", НТМ HD
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="null", Тивиком HD (+5)
