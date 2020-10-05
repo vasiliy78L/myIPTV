@@ -34,10 +34,18 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8
 http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="null", Bambarbia TV
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvstok.work/images/channels/maturtv.jpg", Матур ТВ HD
-http://providers.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="null", MM-TV HD
-http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
+#EXTINF:-1 tvch-id="38036" group-title="КИНО/СЕРИАЛЫ",TV1000-38036
+http://176.111.69.95:1234/udp/224.1.1.92:1234
+#EXTINF:-1 tvch-id="38037" group-title="КИНО/СЕРИАЛЫ",TV1000 РУССКОЕ КИНО-38037
+http://176.111.66.90:1234/udp/224.1.1.91:1234
+#EXTINF:-1 tvch-id="38038" group-title="КИНО/СЕРИАЛЫ",TV1000 ACTION-38038
+http://176.111.66.216:1234/udp/224.1.1.97:1234
+#EXTINF:-1 tvch-id="1008" group-title="КИНО/СЕРИАЛЫ",хит
+http://193.233.187.68:999/udp/239.191.254.8:13343
+#EXTINF:-1 tvch-id="1012" group-title="КИНО/СЕРИАЛЫ",наш кино-показ
+http://193.233.175.206:999/udp/239.191.254.12:13343
+#EXTINF:-1 tvch-id="1023" group-title="КИНО/СЕРИАЛЫ",Блокбастер
+http://193.233.175.206:999/udp/239.191.254.25:13343
 #EXTINF:-1 group-title="Музыка" tvg-logo="null", RU TV HD
 http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvstok.work/images/channels/maturtv.jpg", V2BEAT HD
