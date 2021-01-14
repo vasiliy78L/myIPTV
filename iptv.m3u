@@ -17,201 +17,24 @@ http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/terra/terra0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvstok.work/images/channels/hdl.png", HDL HD
 http://89.106.234.4/hdl_34_35.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvstok.work/images/channels/dikaya_rybalka_obychnyy.jpg", Дикая рыбалка HD
-#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/variant.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvstok.work/images/channels/dikaya_rybalka_obychnyy.jpg", Дикая рыбалка
-###http://109.248.77.168:4044/udp/239.195.5.210:1234
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvstok.work/images/channels/dikaya_ohota_obychnyy.jpg", Дикая охота HD
-#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/variant.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="null", Love Nature 4K
-#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvstok.work/images/channels/HDmedia.png", HD Media HD
-###http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/chunks.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvstok.work/images/channels/Univer.jpg", Univer HD
 http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="null", Bambarbia TV
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
-#EXTINF:-1 tvch-id="38036" group-title="КИНО/СЕРИАЛЫ",TV1000-38036
-http://176.111.69.95:1234/udp/224.1.1.92:1234
-#EXTINF:-1 tvch-id="38037" group-title="КИНО/СЕРИАЛЫ",TV1000 РУССКОЕ КИНО-38037
-http://176.111.66.90:1234/udp/224.1.1.91:1234
-#EXTINF:-1 tvch-id="38038" group-title="КИНО/СЕРИАЛЫ",TV1000 ACTION-38038
-http://176.111.66.216:1234/udp/224.1.1.97:1234
-#EXTINF:-1 tvch-id="1008" group-title="КИНО/СЕРИАЛЫ",хит
-http://193.233.187.68:999/udp/239.191.254.8:13343
-#EXTINF:-1 tvch-id="1012" group-title="КИНО/СЕРИАЛЫ",наш кино-показ
-http://193.233.175.206:999/udp/239.191.254.12:13343
-#EXTINF:-1 tvch-id="1023" group-title="КИНО/СЕРИАЛЫ",Блокбастер
-http://193.233.175.206:999/udp/239.191.254.25:13343
-#EXTINF:-1 group-title="Музыка" tvg-logo="null", RU TV HD
-http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvstok.work/images/channels/maturtv.jpg", V2BEAT HD
-http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvstok.work/images/channels/maturtv.jpg", Russian Music Box HD
 https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvstok.work/images/channels/maturtv.jpg", Power HD
 http://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b2650000_sltur.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvstok.work/images/channels/maturtv.jpg", Djing HD
-http://www.djing.com/tv/s-28634-05-wild-edm.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvstok.work/images/channels/maturtv.jpg", AIVA HD
-https://strm.yandex.ru/kal/aiva/aiva0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvstok.work/images/channels/maturtv.jpg", ACB TV HD
-http://serv25.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvstok.work/images/channels/maturtv.jpg", Радио Шансон ТВ HD
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://iptvstok.work/images/channels/ostrohd.jpg", Остросюжетное HD
-http://188.35.9.26:14050/udp/238.0.14.3:69000?codec=mpeg4
-#EXTINF:-1 group-title="Кино" tvg-logo="https://iptvstok.work/images/channels/KinoUHD.jpg", Кино UHD HD
-http://188.35.9.18:16050/udp/238.0.16.1:69000
-#EXTINF:-1 group-title="Кино" tvg-logo="https://iptvstok.work/images/channels/BollywoodHD.png", Bollywood HD
-https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvstok.work/images/channels/4386d99f.png", VIP Megahit HD
 http://188.35.9.11:2016
-#EXTINF:-1 group-title="Кино" tvg-logo="https://iptvstok.work/images/channels/KinoPrHD.jpg", КиноПремиум HD
-http://188.35.9.11:2017
-#EXTINF:-1 group-title="Кино" tvg-logo="https://iptvstok.work/images/channels/ULTRAHDCINEMA.png", ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
-#EXTINF:-1 group-title="4K" tvg-logo="null", Ultra HD cinema 4K
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Кино" tvg-logo="https://iptvstok.work/images/channels/KinoPrHD.jpg", U.HD
-http://188.35.9.18:16050/udp/238.0.16.1:69000
-#EXTINF:-1 group-title="Кино" tvg-logo="null", ULTO
-http://ultotv.ru:8888/live/uhd/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="null", НТМ HD
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="null", Тивиком HD (+5)
 http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="null", ННТВ HD
-http://140hotstp28.a.trbcdn.net/livemaster/cfd99gu0ai_nntv_tv/playlist.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="null", ТНВ Татарстан
-http://nsk9.peers.tv/streaming/tnv_tatarstan/16/copy/playlist.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="null", Башкортостан 24 HD
-http://nsk9.peers.tv/streaming/bashkortostan_24/16/copy/playlist.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="null", Большая Азия HD
-http://nsk9.peers.tv/streaming/bolshaya_aziya/16/h1080/playlist.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="null", Брянская Губерния HD
-http://nsk9.peers.tv/streaming/bryanskaya_guberniya/126/copy/playlist.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="https://iptvstok.work/images/channels/unnamed.jpg", ПОЭЗИЯ HD
-http://54.36.109.228/20400/index.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="https://iptvstok.work/images/channels/unnamed112.jpg", 112 HD
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="https://iptvstok.work/images/channels/pravdatut.jpg", ПРАВДА ТУТ HD
-http://pravdatytkievshina-hls1.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", М2
-http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", Интер
-http://lb1.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", 1+1
-http://185.189.184.7:8888/1plus1/index.m3u8?token=test
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", НТН
-http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", 2+2
-http://188.35.9.11:2030/index.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", 5 канал
-http://api.tv.ipnet.ua/api/v1/manifest/2118742539.m3u8?codec=mpeg4
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", ICTV
-http://185.189.184.9:80/ICTV/index.m3u8?token=test
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", К1
-http://109.68.40.67/life/k1_3/index.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", К2
-http://185.189.184.7:8888/K2/index.m3u8?token=test
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", UA:TV
-http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", UA:Перший
-http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8?codec=mpeg4
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", UA:Культура
-http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8?codec=mpeg4
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", Мега
-http://185.189.184.7:8888/Mega/index.m3u8?token=test
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", 112 Украина
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", 24 канал
-http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", Рада ТВ
-http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8?codec=mpeg4
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", OTV Music
-http://212.26.146.148/hls/otv.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", Черновицкий Проминь
-http://langate.tv/promin/live_720/index.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", ТРК Чернивци
-http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", Орбита
-http://ftp.orbita.dn.ua/hls/orbita.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", Simon TV
-http://hls.simon.ua/live-HD/live/playlist.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", 34 канал
-http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", En TV
-http://oriontv.net/hls/480.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", Антена
-http://195.95.171.15/hls/stream.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", Тернополь 1
-http://185.53.79.12/ternopil1/index.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", НТК
-http://stream.ntktv.ua/s/ntk/ntk.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", Мариупольское ТВ
-https://live.mariupolskoe.tv:8888/ramdisk/livestream1.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", Центральный ТВ
-http://159.224.182.177:8080/Live/stream_720/playlist.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", ЯТБ
-http://46.175.163.130/live_yatb/playlist.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", Мисто плюс
-http://93.78.206.172:8080/stream4/stream.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", ZTV
-http://stream.ztv.zp.ua/hls/live.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", MostVideo
-http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", NewsOne
-http://bozztv.com/36bay2/gin/giniko_newsone_700kb_36bay2/index.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", СТБ
-http://188.35.9.11:2002/index.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", ЧП.INFO
-http://lb1.macc.com.ua/life/magnolia_3/index.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", Прямий
-http://95.67.21.100/hls/prm_ua_hi/index.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", Правда ТУТ
-http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", Первый Деловой
-http://95.67.127.156/hls/pershij-dlovij_ua_hi/index.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", НТА
-http://95.67.106.10/hls/nta_ua_mid/index.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", UA TV
-http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1 group-title="Украинские" tvg-logo="null", Трофей
 http://91.197.147.244:1935/live/smil:trofey.smil/chunklist_b878000_slukr.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", Первый Городской (Одесса)
-http://cdn1.live-tv.od.ua:8081/1tvod/1tvod/playlist.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", A1UA
-http://cdn1.live-tv.od.ua:8081/a1od/a1od-720p/playlist.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", Третий цифровой
-http://cdn1.live-tv.od.ua:8081/3tvod/3tvod/playlist.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", Инший
-http://cdn1.live-tv.od.ua:8081/ktkod/ktkod/playlist.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", 7 канал
-http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", Южная Волна ТВ
-http://cdn1.live-tv.od.ua:8081/wave/wave-720/playlist.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", ТИС ТВ
-http://cdn10.live-tv.od.ua:8081/riood/tisod504/playlist.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", G TV
-http://cdn1.live-tv.od.ua:8081/a1od/gtvod-720p/playlist.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", Медиа Информ
-http://cdn1.live-tv.od.ua:8081/mediainfo/miod/playlist.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", Здоровье
-http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo/playlist.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", Odessa Fashion TV
-http://cdn10.live-tv.od.ua:8081/ofod/ofod720p/playlist.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", Travel Guide TV UA
-http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", KRATU
-http://cdn10.live-tv.od.ua:8081/kratu/kratu/playlist.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", ОНТ
-http://85.238.112.40:8810/hls_sec/239.1.75.33-.m3u8
-#EXTINF:-1 group-title="Украинские" tvg-logo="null", Pеноме
-http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
 #EXTINF:-1 group-title="Украинские" tvg-logo="null", 1plus1hd HD
 http://185.189.184.8:80/1plus1hd/index.m3u8?token=test
 #EXTINF:-1 group-title="Украинские" tvg-logo="null", Bigudi
